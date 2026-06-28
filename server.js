@@ -4,12 +4,25 @@ import cors from 'cors';
 import { fileURLToPath } from 'url';
 import path from 'path';
 import { ReplitConnectors } from '@replit/connectors-sdk';
+import { createProxyMiddleware } from 'http-proxy-middleware';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const isProd = process.env.NODE_ENV === 'production';
 
 const app = express();
 app.use(cors());
+
+// Proxy /api/news/* → FastAPI news backend on port 8000
+app.use('/api/news', createProxyMiddleware({
+  target: 'http://localhost:8000',
+  changeOrigin: true,
+  pathRewrite: { '^/api/news': '' },
+  on: {
+    error: (err, req, res) => {
+      res.status(502).json({ error: 'News backend unavailable', detail: err.message });
+    },
+  },
+}));
 
 // In production, serve the Vite build output
 if (isProd) {
@@ -78,7 +91,6 @@ function rowToAction(row, index) {
   const symbol = ticker.trim().toUpperCase();
   const paymentDate = parseDate(payoutDate);
 
-  // Determine the event type early so we can pick the right fallback date for IPOs
   let earlyType = 'cash_dividend';
   if (eventType === 'Stock Dividends') earlyType = 'bonus_shares';
   else if (eventType === 'Stock Split') earlyType = 'stock_split';
@@ -87,14 +99,12 @@ function rowToAction(row, index) {
   else if (eventType === 'Capital Increase') earlyType = 'capital_increase';
   else if (eventType === 'Tender Offer') earlyType = 'tender_offer';
 
-  // IPOs: fall back to first trading day → cap trading start → bank cutoff → paymentDate
-  // Tender Offers: fall back to offer start (col O) if no eligibility date
   let exDate = parseDate(eligibilityDate);
   if (!exDate && earlyType === 'ipo') {
     exDate = parseDate(ipoFirstTradingDay) ?? parseDate(capTradingStart) ?? parseDate(capSubscriptionEndBank) ?? paymentDate;
   }
   if (!exDate && earlyType === 'tender_offer') {
-    exDate = parseDate(capTradingStart); // col O = offer start
+    exDate = parseDate(capTradingStart);
   }
   if (!exDate) return null;
 
@@ -234,16 +244,13 @@ app.get('/api/pdf-proxy', async (req, res) => {
     const baseUrl = `https://drive.usercontent.google.com/download?id=${fileId}&export=download&authuser=0`;
     const headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' };
 
-    // Use manual redirect so we can detect a sign-in redirect before following it
     const upstream = await fetch(baseUrl, { headers, redirect: 'manual' });
     const location = upstream.headers.get('location') || '';
 
-    // Redirect to Google accounts = file is not publicly shared
     if (location.includes('accounts.google.com') || location.includes('ServiceLogin')) {
       return res.status(403).json({ error: 'not_public', message: 'This file requires Google sign-in. Set sharing to "Anyone with the link" in Google Drive.' });
     }
 
-    // Follow redirect manually if it stays within Google's content domain
     let final = upstream;
     if (upstream.status >= 300 && upstream.status < 400 && location) {
       final = await fetch(location, { headers, redirect: 'follow' });
@@ -279,7 +286,6 @@ async function fetchTab(connectors, tabName) {
     { method: 'GET' }
   );
   const data = await response.json();
-  // Skip the header row (row 0) from each tab
   return (data.values || []).slice(1);
 }
 
@@ -336,8 +342,6 @@ app.post('/api/sheet-actions/refresh', async (req, res) => {
   }
 });
 
-// ── Health check ────────────────────────────────────────────────────────────
-// Replit Autoscale pings this to confirm the server is alive before routing traffic.
 app.get('/health', (_req, res) => {
   res.json({
     status: 'ok',
@@ -348,9 +352,6 @@ app.get('/health', (_req, res) => {
   });
 });
 
-// ── Error reporting ─────────────────────────────────────────────────────────
-// The frontend ErrorBoundary POSTs here so crashes are visible in server logs
-// (and in Replit deployment logs, which you can monitor or pipe to Sentry later).
 app.use(express.json());
 app.post('/api/log-error', (req, res) => {
   const { message, stack, url, userAgent } = req.body || {};
@@ -375,6 +376,5 @@ if (isProd) {
 const PORT = isProd ? (process.env.PORT || 5000) : 3001;
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`Sheet API server running on port ${PORT}`);
-  // Warm the cache immediately so the first visitor is instant
   getActions().then(() => console.log('Cache warmed')).catch(() => {});
 });
