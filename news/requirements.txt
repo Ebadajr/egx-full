@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+feedparser
+beautifulsoup4
+playwright
+aiofiles
+python-dotenv
