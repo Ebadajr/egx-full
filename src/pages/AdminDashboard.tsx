@@ -7,6 +7,7 @@ import { StatusPill, TypeBadge, TickerTile, InfoDot, actionRenderer, hexToRgba, 
 
 
 import { useWatchlist } from '../lib/watchlistStore';
+import NewsSection from './NewsSection';
 
 const TK_DARK = {
   body: '#000', fg: '#fff', fg2: '#9A9A9A', fg3: '#767676',
@@ -211,7 +212,7 @@ export default function AdminDashboard({ readOnly = false }: { readOnly?: boolea
         {/* ─── Main ─────────────────────────────────────────── */}
         <main style={{ flex: 1, padding: '32px 32px 40px', minWidth: 0, overflowY: 'auto' }}>
           {activeNav === 'news' ? (
-            <Navigate to="/news" replace />
+            <NewsSection TK={TK} />
           ) : activeNav === 'watchlist' ? <WatchlistPanel all={all} navigate={navigate} readOnly={readOnly}/> : <>
           <header style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: 24 }}>
             <div>
