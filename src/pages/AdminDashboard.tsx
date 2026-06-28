@@ -1,5 +1,5 @@
 import { useState, useMemo, createContext, useContext, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Navigate } from 'react-router-dom';
 import { COMPANIES, ACTION_TYPES, STATUS_META, CorporateActionWithStatus, fmtDate, daysFromToday } from '../data/designData';
 import { useSheetActions } from '../data/sheetActionsContext';
 import { useT } from '../lib/i18n';
@@ -211,11 +211,7 @@ export default function AdminDashboard({ readOnly = false }: { readOnly?: boolea
         {/* ─── Main ─────────────────────────────────────────── */}
         <main style={{ flex: 1, padding: '32px 32px 40px', minWidth: 0, overflowY: 'auto' }}>
           {activeNav === 'news' ? (
-            <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: 420, gap: 16, color: TK.fg3 }}>
-              <i className="ph ph-newspaper" style={{ fontSize: 52 }}/>
-              <div style={{ fontWeight: 700, fontSize: 18, color: TK.fg }}>{isAr ? 'الأخبار' : 'News'}</div>
-              <div style={{ fontSize: 13 }}>{t.comingSoon}</div>
-            </div>
+            <Navigate to="/news" replace />
           ) : activeNav === 'watchlist' ? <WatchlistPanel all={all} navigate={navigate} readOnly={readOnly}/> : <>
           <header style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', marginBottom: 24 }}>
             <div>
