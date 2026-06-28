@@ -4,17 +4,20 @@ set -e
 echo "[start] Installing Python dependencies..."
 pip install -r news/requirements.txt --quiet
 
-# Use the system Chromium (from replit.nix pkgs.chromium) so Playwright
-# doesn't try to use its own bundled binary which is missing Nix lib deps.
-export PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
-export PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=$(which chromium || which chromium-browser || echo "")
+# Find system Chromium (from replit.nix pkgs.chromium)
+CHROMIUM_BIN=$(which chromium 2>/dev/null || which chromium-browser 2>/dev/null || echo "")
 
-if [ -z "$PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH" ]; then
-  echo "[start] WARNING: system chromium not found, falling back to playwright install"
-  python -m playwright install chromium 2>/dev/null || true
+if [ -n "$CHROMIUM_BIN" ]; then
+  echo "[start] Found system Chromium at $CHROMIUM_BIN"
+  # Patch app.py to pass executable_path so Playwright uses system chromium
+  # instead of its bundled binary which is missing Nix lib deps (libnspr4.so etc)
+  sed -i "s|pw\.chromium\.launch(headless=True)|pw.chromium.launch(headless=True, executable_path='$CHROMIUM_BIN')|g" news/app.py
+  echo "[start] Patched news/app.py to use system Chromium"
 else
-  echo "[start] Using system Chromium at $PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH"
+  echo "[start] System chromium not found, using Playwright bundled binary"
 fi
+
+export PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 
 echo "[start] Starting FastAPI news backend on port 8000..."
 cd news
