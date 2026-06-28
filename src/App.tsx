@@ -9,6 +9,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import AdminActions from './pages/AdminActions';
 import AppAllActions from './pages/AppAllActions';
 import AppStockActions from './pages/AppStockActions';
+import NewsPage from './pages/NewsPage';
 
 export default function App() {
   const [lang, setLang] = useState<Lang>('en');
@@ -28,6 +29,7 @@ export default function App() {
           <Route path="/actions" element={<AdminActions />} />
           <Route path="/app/actions" element={<AppAllActions />} />
           <Route path="/app/stock/:ticker" element={<AppStockActions />} />
+          <Route path="/news" element={<NewsPage />} />
         </Routes>
       </BrowserRouter>
     </LangCtx.Provider>
