@@ -1,0 +1,117 @@
+/* ── Recoleta (display / headings) ─────────────────────────────── */
+@font-face { font-family:'Recoleta'; src:url('/fonts/Recoleta-Regular.otf')  format('opentype'); font-weight:400; font-display:swap; }
+@font-face { font-family:'Recoleta'; src:url('/fonts/Recoleta-Medium.otf')   format('opentype'); font-weight:500; font-display:swap; }
+@font-face { font-family:'Recoleta'; src:url('/fonts/Recoleta-SemiBold.otf') format('opentype'); font-weight:600; font-display:swap; }
+@font-face { font-family:'Recoleta'; src:url('/fonts/Recoleta-Bold.otf')     format('opentype'); font-weight:700; font-display:swap; }
+
+/* ── DM Sans (body / UI) ────────────────────────────────────────── */
+@font-face {
+  font-family: 'DM Sans';
+  src: url('/fonts/DMSans-VariableFont_opsz_wght.ttf') format('truetype-variations');
+  font-weight: 100 1000;
+  font-style: normal;
+  font-display: swap;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+*:focus { outline: none; }
+*:focus-visible { outline: 2px solid rgba(255,255,255,0.25); outline-offset: 2px; }
+
+/* ── Thndr brand tokens ─────────────────────────────────────────── */
+:root {
+  /* Fonts */
+  --font-display: 'Recoleta', 'Fraunces', Georgia, serif;
+  --font-sans:    'DM Sans', 'Cairo', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Brand core */
+  --thndr-yellow: #FFFF00;
+  --thndr-ink:    #1A1A1A;
+  --thndr-white:  #FFFFFF;
+  --thndr-paper:  #FFFEF2;
+  --yellow-40:    #FFFF99;
+  --yellow-20:    #FFFFCC;
+
+  /* Secondary palette */
+  --c-orange:    #FF7840;
+  --c-pink:      #FF7AAB;
+  --c-red:       #F23054;
+  --c-purple:    #49387B;
+  --c-blue:      #4683F3;
+  --c-turquoise: #38BF9C;
+  --c-mint:      #88FF88;
+  --c-darkgreen: #00321B;
+
+  /* Semantic */
+  --up:   #16B477;
+  --down: #F23054;
+  --warn: #FF7840;
+  --info: #4683F3;
+
+  /* Radii */
+  --r-sm: 12px; --r-md: 16px; --r-lg: 22px; --r-pill: 999px;
+
+  /* Gradients */
+  --grad-sunrise: linear-gradient(120deg,#FFFF00 0%,#FF7840 100%);
+  --grad-sand:    linear-gradient(120deg,#FFFF99 0%,#FF7840 60%,#F23054 100%);
+}
+
+/* ── Base ───────────────────────────────────────────────────────── */
+html, body, #root {
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3 { font-family: var(--font-display); font-weight: 500; letter-spacing: -0.01em; }
+
+button { font-family: var(--font-sans); }
+input, select, textarea { font-family: var(--font-sans); }
+
+/* ── Mobile dark theme tokens ───────────────────────────────────── */
+[data-mtheme="dark"] {
+  --mbg:       #0C0C0C;
+  --mfg:       #FFFEF2;
+  --mfg2:      #9C9C9C;
+  --mfg3:      #6A6A6A;
+  --mfg4:      #4A4A4A;
+  --mfg-soft:  #BEBEBE;
+  --mcard:     #161616;
+  --mcard-2:   #1F1F1F;
+  --mchip:     #2A2A2A;
+  --mborder:   rgba(255,255,255,0.08);
+  --mborder-2: rgba(255,255,255,0.10);
+  --mborder-3: rgba(255,255,255,0.06);
+  --mup:       #16B477;
+  --mhero-bg:  #0C0C0C;
+  --mhero-fg:  #FFFEF2;
+}
+
+[data-mtheme="light"] {
+  --mbg:       #FFFEF2;
+  --mfg:       #1A1A1A;
+  --mfg2:      #5E5E5E;
+  --mfg3:      #9A9A9A;
+  --mfg4:      #C0C0C0;
+  --mfg-soft:  #555555;
+  --mcard:     #FFFFFF;
+  --mcard-2:   #F6F6EE;
+  --mchip:     #E9E9E1;
+  --mborder:   #E9E9E1;
+  --mborder-2: #EFEFEF;
+  --mborder-3: #F5F5F5;
+  --mup:       #16B477;
+  --mhero-bg:  #1A1A1A;
+  --mhero-fg:  #FFFEF2;
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #2A2A2A; border-radius: 3px; }

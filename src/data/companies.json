@@ -1,0 +1,4021 @@
+[
+  {
+    "ticker": "INFI",
+    "symbolCode": "EGS01041C010",
+    "name": "Ismailia National Food Industries",
+    "nameAr": "الاسماعيلية الوطنية للصناعات الغذائية (فوديكو)",
+    "enKeywords": [
+      "infi",
+      "ismailia"
+    ],
+    "arKeywords": [
+      "الاسماعيلية الوطنية للصناعات الغذائية",
+      "الاسماعيلية الوطنية",
+      "الاسماعيلية الوطنية للصناعات"
+    ]
+  },
+  {
+    "ticker": "WKOL",
+    "symbolCode": "EGS01071C017",
+    "name": "Wadi Kom Ombo Land Reclamation",
+    "nameAr": "وادي كوم امبو لاستصلاح الاراضي",
+    "enKeywords": [
+      "wkol",
+      "reclamation",
+      "wadi kom",
+      "kom ombo",
+      "ombo land",
+      "land reclamation"
+    ],
+    "arKeywords": [
+      "وادي كوم امبو لاستصلاح الاراضي",
+      "وادي كوم",
+      "وادي كوم امبو"
+    ]
+  },
+  {
+    "ticker": "AALR",
+    "symbolCode": "EGS01081C016",
+    "name": "General Co for Land Reclamation",
+    "nameAr": "العامة لاستصلاح الاراضي",
+    "enKeywords": [
+      "aalr",
+      "reclamation",
+      "land reclamation"
+    ],
+    "arKeywords": [
+      "العامة لاستصلاح الاراضي",
+      "العامة لاستصلاح"
+    ]
+  },
+  {
+    "ticker": "ISMA",
+    "symbolCode": "EGS02021C011",
+    "name": "Ismailia Misr Poultry",
+    "nameAr": "الاسماعيلية مصر للدواجن",
+    "enKeywords": [
+      "isma",
+      "ismailia",
+      "poultry",
+      "ismailia poultry"
+    ],
+    "arKeywords": [
+      "الاسماعيلية مصر للدواجن",
+      "الاسماعيلية مصر"
+    ]
+  },
+  {
+    "ticker": "POUL",
+    "symbolCode": "EGS02051C018",
+    "name": "Cairo Poultry",
+    "nameAr": "القاهرة للدواجن",
+    "enKeywords": [
+      "poul",
+      "poultry"
+    ],
+    "arKeywords": [
+      "القاهرة للدواجن"
+    ]
+  },
+  {
+    "ticker": "MPCO",
+    "symbolCode": "EGS02091C014",
+    "name": "Mansoura Poultry",
+    "nameAr": "المنصوره للدواجن",
+    "enKeywords": [
+      "mpco",
+      "mansoura",
+      "poultry",
+      "mansoura poultry"
+    ],
+    "arKeywords": [
+      "المنصوره للدواجن"
+    ]
+  },
+  {
+    "ticker": "EPCO",
+    "symbolCode": "EGS02211C018",
+    "name": "Egypt for Poultry",
+    "nameAr": "المصرية للدواجن",
+    "enKeywords": [
+      "epco",
+      "poultry"
+    ],
+    "arKeywords": [
+      "المصرية للدواجن"
+    ]
+  },
+  {
+    "ticker": "KRDI",
+    "symbolCode": "EGS02291C010",
+    "name": "Al-Khair River for Development, Agricultural Investment & Environmental Services",
+    "nameAr": "نهر الخير للتنمية والاستثمار الزراعي والخدمات البيئية",
+    "enKeywords": [
+      "krdi",
+      "environmental",
+      "khair river",
+      "river environmental"
+    ],
+    "arKeywords": [
+      "نهر الخير للتنمية والاستثمار الزراعي والخدمات البيئية",
+      "نهر الخير",
+      "نهر الخير للتنمية"
+    ]
+  },
+  {
+    "ticker": "IFAP",
+    "symbolCode": "EGS07061C012",
+    "name": "International Agricultural Products",
+    "nameAr": "الدوليه للمحاصيل الزراعيه",
+    "enKeywords": [
+      "ifap",
+      "products"
+    ],
+    "arKeywords": [
+      "الدوليه للمحاصيل الزراعيه",
+      "الدوليه للمحاصيل"
+    ]
+  },
+  {
+    "ticker": "AIFI",
+    "symbolCode": "EGS071L1C018",
+    "name": "Atlas for Investment",
+    "nameAr": "اطلس للاستثمار والصناعات الغذائبه",
+    "enKeywords": [
+      "aifi"
+    ],
+    "arKeywords": [
+      "اطلس للاستثمار والصناعات الغذائبه",
+      "اطلس للاستثمار",
+      "اطلس للاستثمار والصناعات"
+    ]
+  },
+  {
+    "ticker": "LUTS",
+    "symbolCode": "EGS07661C019",
+    "name": "Lotus for Agricultural Investments and Development",
+    "nameAr": "لوتس للتنمية والاستثمار الزراعى",
+    "enKeywords": [
+      "luts",
+      "investments",
+      "lotus investments"
+    ],
+    "arKeywords": [
+      "لوتس للتنمية والاستثمار الزراعى",
+      "لوتس للتنمية",
+      "لوتس للتنمية والاستثمار"
+    ]
+  },
+  {
+    "ticker": "KORA",
+    "symbolCode": "EGS07911C018",
+    "name": "Korra Energi",
+    "nameAr": "قرة لمشروعات الطاقة والاستثمار",
+    "enKeywords": [
+      "kora",
+      "korra energi"
+    ],
+    "arKeywords": [
+      "قرة لمشروعات الطاقة والاستثمار",
+      "قرة لمشروعات",
+      "قرة لمشروعات الطاقة"
+    ]
+  },
+  {
+    "ticker": "GGRN",
+    "symbolCode": "EGS07DR1C012",
+    "name": "Gogreen for Agricultural Investment",
+    "nameAr": "جو جرين للاستثمار الزراعى والتنمية",
+    "enKeywords": [
+      "ggrn",
+      "gogreen"
+    ],
+    "arKeywords": [
+      "جو جرين للاستثمار الزراعى والتنمية",
+      "جو جرين",
+      "جو جرين للاستثمار"
+    ]
+  },
+  {
+    "ticker": "NEDA",
+    "symbolCode": "EGS52041C018",
+    "name": "Northern Upper Egypt Development & Agricultural Production",
+    "nameAr": "شمال الصعيد للتنميه والانتاج الزراعي (نيوداب)",
+    "enKeywords": [
+      "neda",
+      "northern",
+      "production",
+      "northern production"
+    ],
+    "arKeywords": [
+      "شمال الصعيد للتنميه والانتاج الزراعي",
+      "شمال الصعيد",
+      "شمال الصعيد للتنميه"
+    ]
+  },
+  {
+    "ticker": "EALR",
+    "symbolCode": "EGS65771C015",
+    "name": "El Arabia for Land Reclamation",
+    "nameAr": "العربية لاستصلاح الاراضي",
+    "enKeywords": [
+      "ealr",
+      "reclamation",
+      "arabia land",
+      "land reclamation"
+    ],
+    "arKeywords": [
+      "العربية لاستصلاح الاراضي",
+      "العربية لاستصلاح"
+    ]
+  },
+  {
+    "ticker": "ASCM",
+    "symbolCode": "EGS10001C013",
+    "name": "Asek Company for Mining (Ascom)",
+    "nameAr": "اسيك للتعدين - اسكوم",
+    "enKeywords": [
+      "ascm",
+      "asek mining",
+      "mining ascom"
+    ],
+    "arKeywords": [
+      "اسيك للتعدين - اسكوم",
+      "اسيك للتعدين",
+      "اسيك للتعدين اسكوم"
+    ]
+  },
+  {
+    "ticker": "ISMQ",
+    "symbolCode": "EGS102S1C014",
+    "name": "Iron and Steel for Mines and Quarries",
+    "nameAr": "الحديد و الصلب للمناجم و المحاجر",
+    "enKeywords": [
+      "ismq",
+      "quarries",
+      "iron steel",
+      "steel mines",
+      "mines quarries"
+    ],
+    "arKeywords": [
+      "الحديد و الصلب للمناجم و المحاجر",
+      "الحديد الصلب",
+      "الحديد الصلب للمناجم"
+    ]
+  },
+  {
+    "ticker": "DCRC",
+    "symbolCode": "EGS21451C017",
+    "name": "Delta Construction & Rebuilding",
+    "nameAr": "دلتا للانشاء والتعمير",
+    "enKeywords": [
+      "dcrc",
+      "rebuilding"
+    ],
+    "arKeywords": [
+      "دلتا للانشاء والتعمير",
+      "دلتا للانشاء"
+    ]
+  },
+  {
+    "ticker": "UEGC",
+    "symbolCode": "EGS21531C016",
+    "name": "Upper Egypt Contracting",
+    "nameAr": "الصعيد العامة للمقاولات",
+    "enKeywords": [
+      "uegc",
+      "contracting"
+    ],
+    "arKeywords": [
+      "الصعيد العامة للمقاولات",
+      "الصعيد العامة"
+    ]
+  },
+  {
+    "ticker": "GGCC",
+    "symbolCode": "EGS21541C015",
+    "name": "Giza General Contracting",
+    "nameAr": "الجيزةالعامة للمقاولات",
+    "enKeywords": [
+      "ggcc",
+      "contracting",
+      "giza contracting"
+    ],
+    "arKeywords": [
+      "الجيزةالعامة للمقاولات"
+    ]
+  },
+  {
+    "ticker": "FNAR",
+    "symbolCode": "EGS221U1C016",
+    "name": "Fanar General Contracting for Construction and Trade",
+    "nameAr": "الفنار للمقاولات العموميه والانشاءات والتجاره",
+    "enKeywords": [
+      "fnar",
+      "contracting",
+      "fanar contracting"
+    ],
+    "arKeywords": [
+      "الفنار للمقاولات العموميه والانشاءات والتجاره",
+      "الفنار للمقاولات",
+      "الفنار للمقاولات العموميه"
+    ]
+  },
+  {
+    "ticker": "MBEG",
+    "symbolCode": "EGS221V1C015",
+    "name": "M.B Engineering",
+    "nameAr": "إم بي للهندسه",
+    "enKeywords": [
+      "mbeg",
+      "engineering"
+    ],
+    "arKeywords": [
+      "إم بي للهندسه",
+      "إم بي"
+    ]
+  },
+  {
+    "ticker": "NCCW",
+    "symbolCode": "EGS23111C015",
+    "name": "Nasr for Civil Works",
+    "nameAr": "شركة النصر للأعمال المدنية",
+    "enKeywords": [
+      "nccw",
+      "nasr civil",
+      "civil works"
+    ],
+    "arKeywords": [
+      "شركة النصر للأعمال المدنية",
+      "النصر للأعمال",
+      "النصر للأعمال المدنية"
+    ]
+  },
+  {
+    "ticker": "CRST",
+    "symbolCode": "EGS23141C012",
+    "name": "Creast Mark for Contracting and Real Estate Development",
+    "nameAr": "كريستمارك للمقاولات والتطوير العقاري",
+    "enKeywords": [
+      "crst",
+      "contracting",
+      "creast mark",
+      "mark contracting"
+    ],
+    "arKeywords": [
+      "كريستمارك للمقاولات والتطوير العقاري",
+      "كريستمارك للمقاولات",
+      "كريستمارك للمقاولات والتطوير"
+    ]
+  },
+  {
+    "ticker": "ORAS",
+    "symbolCode": "EGS95001C011",
+    "name": "Orascom Construction Ltd.",
+    "nameAr": "اوراسكوم كونستراكشون ليميتد",
+    "enKeywords": [
+      "oras",
+      "orascom"
+    ],
+    "arKeywords": [
+      "اوراسكوم كونستراكشون ليميتد",
+      "اوراسكوم كونستراكشون"
+    ]
+  },
+  {
+    "ticker": "ZMID",
+    "symbolCode": "EGS21171C011",
+    "name": "Zahraa Maadi Investment & Development",
+    "nameAr": "زهراء المعادي للاستثمار والتعمير",
+    "enKeywords": [
+      "zmid",
+      "zahraa maadi"
+    ],
+    "arKeywords": [
+      "زهراء المعادي للاستثمار والتعمير",
+      "زهراء المعادي",
+      "زهراء المعادي للاستثمار"
+    ]
+  },
+  {
+    "ticker": "GPIM",
+    "symbolCode": "EGS213S1C010",
+    "name": "GPI For Urban Growth",
+    "nameAr": "جي بي آي للنمو العمراني",
+    "enKeywords": [
+      "gpim",
+      "gpi urban",
+      "urban growth"
+    ],
+    "arKeywords": [
+      "جي بي آي للنمو العمراني",
+      "جي بي آي"
+    ]
+  },
+  {
+    "ticker": "IDRE",
+    "symbolCode": "EGS214Q1C011",
+    "name": "New Ismailia Urban Development",
+    "nameAr": "الاسماعيلية الجديدة للتطوير والتنمية العمرانية",
+    "enKeywords": [
+      "idre",
+      "ismailia",
+      "ismailia urban"
+    ],
+    "arKeywords": [
+      "الاسماعيلية الجديدة للتطوير والتنمية العمرانية",
+      "الاسماعيلية الجديدة",
+      "الاسماعيلية الجديدة للتطوير"
+    ]
+  },
+  {
+    "ticker": "TANM",
+    "symbolCode": "EGS21EB1C011",
+    "name": "Tanmiya for Real Estate Investment",
+    "nameAr": "تنمية للاستثمار العقاري",
+    "enKeywords": [
+      "tanm",
+      "tanmiya"
+    ],
+    "arKeywords": [
+      "تنمية للاستثمار العقاري",
+      "تنمية للاستثمار"
+    ]
+  },
+  {
+    "ticker": "PRDC",
+    "symbolCode": "EGS21FW1C015",
+    "name": "Pioneers Properties for Development",
+    "nameAr": "بايونيرز بروبريتيز للتنمية العقارية",
+    "enKeywords": [
+      "prdc",
+      "pioneers",
+      "properties",
+      "pioneers properties"
+    ],
+    "arKeywords": [
+      "بايونيرز بروبريتيز للتنمية العقارية",
+      "بايونيرز بروبريتيز",
+      "بايونيرز بروبريتيز للتنمية"
+    ]
+  },
+  {
+    "ticker": "HBCO",
+    "symbolCode": "EGS23OD1C015",
+    "name": "Heibco for Commercial Investments & Real Estate Development",
+    "nameAr": "هيبكو للاستثمارات التجارية والتنمية العقارية",
+    "enKeywords": [
+      "hbco",
+      "investments",
+      "heibco investments"
+    ],
+    "arKeywords": [
+      "هيبكو للاستثمارات التجارية والتنمية العقارية",
+      "هيبكو للاستثمارات",
+      "هيبكو للاستثمارات التجارية"
+    ]
+  },
+  {
+    "ticker": "TRST",
+    "symbolCode": "EGS233E1C012",
+    "name": "Trust for Business and Development Management",
+    "nameAr": "ثقة لادارة الاعمال و التنمية",
+    "enKeywords": [
+      "trst",
+      "business"
+    ],
+    "arKeywords": [
+      "ثقة لادارة الاعمال و التنمية",
+      "ثقة لادارة",
+      "ثقة لادارة الاعمال"
+    ]
+  },
+  {
+    "ticker": "RREI",
+    "symbolCode": "EGS65011C016",
+    "name": "Arab Real Estate Investment (ALCO)",
+    "nameAr": "الاستثمارالعقاري العربي- اليكو",
+    "enKeywords": [
+      "rrei"
+    ],
+    "arKeywords": [
+      "الاستثمارالعقاري العربي- اليكو",
+      "الاستثمارالعقاري العربي-"
+    ]
+  },
+  {
+    "ticker": "UNIT",
+    "symbolCode": "EGS65061C011",
+    "name": "United Housing & Development",
+    "nameAr": "المتحدة للاسكان والتعمير",
+    "enKeywords": [
+      "unit"
+    ],
+    "arKeywords": [
+      "المتحدة للاسكان والتعمير",
+      "المتحدة للاسكان"
+    ]
+  },
+  {
+    "ticker": "ELKA",
+    "symbolCode": "EGS65071C010",
+    "name": "El Kahera Housing",
+    "nameAr": "القاهرة للاسكان والتعمير",
+    "enKeywords": [
+      "elka"
+    ],
+    "arKeywords": [
+      "القاهرة للاسكان والتعمير",
+      "القاهرة للاسكان"
+    ]
+  },
+  {
+    "ticker": "DAPH",
+    "symbolCode": "EGS65081C019",
+    "name": "Development & Engineering Consultants",
+    "nameAr": "التعمير والاستشارات الهندسية",
+    "enKeywords": [
+      "daph",
+      "engineering",
+      "consultants",
+      "engineering consultants"
+    ],
+    "arKeywords": [
+      "التعمير والاستشارات الهندسية",
+      "التعمير والاستشارات"
+    ]
+  },
+  {
+    "ticker": "ELSH",
+    "symbolCode": "EGS65091C018",
+    "name": "Al Shams Housing",
+    "nameAr": "الشمس للاسكان والتعمير",
+    "enKeywords": [
+      "elsh"
+    ],
+    "arKeywords": [
+      "الشمس للاسكان والتعمير",
+      "الشمس للاسكان"
+    ]
+  },
+  {
+    "ticker": "NHPS",
+    "symbolCode": "EGS65131C012",
+    "name": "National Housing for Professional Syndicates",
+    "nameAr": "الوطنية للاسكان للنقابات المهنية",
+    "enKeywords": [
+      "nhps",
+      "professional",
+      "syndicates",
+      "professional syndicates"
+    ],
+    "arKeywords": [
+      "الوطنية للاسكان للنقابات المهنية",
+      "الوطنية للاسكان",
+      "الوطنية للاسكان للنقابات"
+    ]
+  },
+  {
+    "ticker": "CCRS",
+    "symbolCode": "EGS651B1C018",
+    "name": "Gulf Canadian Real Estate Investment Co.",
+    "nameAr": "الخليجية الكندية للاستثمار العقاري العربي",
+    "enKeywords": [
+      "ccrs",
+      "canadian"
+    ],
+    "arKeywords": [
+      "الخليجية الكندية للاستثمار العقاري العربي",
+      "الخليجية الكندية",
+      "الخليجية الكندية للاستثمار"
+    ]
+  },
+  {
+    "ticker": "AREH",
+    "symbolCode": "EGS65211C012",
+    "name": "Egyptian Real Estate Group",
+    "nameAr": "المجموعة المصرية العقارية",
+    "enKeywords": [
+      "areh"
+    ],
+    "arKeywords": [
+      "المجموعة المصرية العقارية",
+      "المصرية العقارية"
+    ]
+  },
+  {
+    "ticker": "EHDR",
+    "symbolCode": "EGS65341C017",
+    "name": "Egyptians for Housing Development & Reconstruction",
+    "nameAr": "المصريين للاسكان والتنمية والتعمير",
+    "enKeywords": [
+      "ehdr",
+      "egyptians",
+      "reconstruction",
+      "egyptians reconstruction"
+    ],
+    "arKeywords": [
+      "المصريين للاسكان والتنمية والتعمير",
+      "المصريين للاسكان",
+      "المصريين للاسكان والتنمية"
+    ]
+  },
+  {
+    "ticker": "MENA",
+    "symbolCode": "EGS65441C015",
+    "name": "Mena Touristic Investment",
+    "nameAr": "مينا للاستثمار السياحي والعقاري",
+    "enKeywords": [
+      "mena",
+      "touristic",
+      "mena touristic"
+    ],
+    "arKeywords": [
+      "مينا للاستثمار السياحي والعقاري",
+      "مينا للاستثمار",
+      "مينا للاستثمار السياحي"
+    ]
+  },
+  {
+    "ticker": "GIHD",
+    "symbolCode": "EGS65461C013",
+    "name": "Islamic Gharbia Housing Development",
+    "nameAr": "الغربية الاسلامية للتنمية العمرانية",
+    "enKeywords": [
+      "gihd",
+      "gharbia"
+    ],
+    "arKeywords": [
+      "الغربية الاسلامية للتنمية العمرانية",
+      "الغربية الاسلامية",
+      "الغربية الاسلامية للتنمية"
+    ]
+  },
+  {
+    "ticker": "COPR",
+    "symbolCode": "EGS65511C015",
+    "name": "Copper for Commercial Investment & Real Estate Development",
+    "nameAr": "كوبر للاستثمار التجارى و التطوير العقارى",
+    "enKeywords": [
+      "copr"
+    ],
+    "arKeywords": [
+      "كوبر للاستثمار التجارى و التطوير العقارى",
+      "كوبر للاستثمار",
+      "كوبر للاستثمار التجارى"
+    ]
+  },
+  {
+    "ticker": "OBRI",
+    "symbolCode": "EGS65551C011",
+    "name": "El Obour Real Estate Investment",
+    "nameAr": "العبور للاستثمار العقارى",
+    "enKeywords": [
+      "obri"
+    ],
+    "arKeywords": [
+      "العبور للاستثمار العقارى",
+      "العبور للاستثمار"
+    ]
+  },
+  {
+    "ticker": "MASR",
+    "symbolCode": "EGS65571C019",
+    "name": "Medinet Masr Housing",
+    "nameAr": "مدينة مصر للاسكان والتعمير",
+    "enKeywords": [
+      "masr",
+      "medinet",
+      "medinet masr"
+    ],
+    "arKeywords": [
+      "مدينة مصر للاسكان والتعمير",
+      "مدينة مصر",
+      "مدينة مصر للاسكان"
+    ]
+  },
+  {
+    "ticker": "HELI",
+    "symbolCode": "EGS65591C017",
+    "name": "Heliopolis Housing",
+    "nameAr": "مصر الجديدة للاسكان والتعمير",
+    "enKeywords": [
+      "heli",
+      "heliopolis"
+    ],
+    "arKeywords": [
+      "مصر الجديدة للاسكان والتعمير",
+      "مصر الجديدة",
+      "مصر الجديدة للاسكان"
+    ]
+  },
+  {
+    "ticker": "PHDC",
+    "symbolCode": "EGS655L1C012",
+    "name": "Palm Hills",
+    "nameAr": "بالم هيلز للتعمير",
+    "enKeywords": [
+      "phdc",
+      "palm hills"
+    ],
+    "arKeywords": [
+      "بالم هيلز للتعمير",
+      "بالم هيلز"
+    ]
+  },
+  {
+    "ticker": "UTOP",
+    "symbolCode": "EGS655Y1C017",
+    "name": "Utopia",
+    "nameAr": "يوتوبيا للاستثمار العقاري والسياحي",
+    "enKeywords": [
+      "utop"
+    ],
+    "arKeywords": [
+      "يوتوبيا للاستثمار العقاري والسياحي",
+      "يوتوبيا للاستثمار",
+      "يوتوبيا للاستثمار العقاري"
+    ]
+  },
+  {
+    "ticker": "BONY",
+    "symbolCode": "EGS656M1C010",
+    "name": "Bonyan for Development and Trade",
+    "nameAr": "بنيان للتنمية والتجارة",
+    "enKeywords": [
+      "bony"
+    ],
+    "arKeywords": [
+      "بنيان للتنمية والتجارة",
+      "بنيان للتنمية"
+    ]
+  },
+  {
+    "ticker": "OCDI",
+    "symbolCode": "EGS65851C015",
+    "name": "SODIC",
+    "nameAr": "السادس من اكتوبر للتنميه والاستثمار سوديك",
+    "enKeywords": [
+      "ocdi"
+    ],
+    "arKeywords": [
+      "السادس من اكتوبر للتنميه والاستثمار سوديك",
+      "سوديك للتطوير"
+    ]
+  },
+  {
+    "ticker": "FIRE",
+    "symbolCode": "EGS65AL1C010",
+    "name": "First Investment & Real Estate Development",
+    "nameAr": "الاولى للاستثمار والتنمية العقارية",
+    "enKeywords": [
+      "fire"
+    ],
+    "arKeywords": [
+      "الاولى للاستثمار والتنمية العقارية",
+      "الاولى للاستثمار",
+      "الاولى للاستثمار والتنمية"
+    ]
+  },
+  {
+    "ticker": "ADRI",
+    "symbolCode": "EGS65AN1C018",
+    "name": "Arab Development & Real Estate Investment",
+    "nameAr": "اراب للتنميه والاستثمار العقارى",
+    "enKeywords": [
+      "adri"
+    ],
+    "arKeywords": [
+      "اراب للتنميه والاستثمار العقارى",
+      "اراب للتنميه",
+      "اراب للتنميه والاستثمار"
+    ]
+  },
+  {
+    "ticker": "MKIT",
+    "symbolCode": "EGS659O1C015",
+    "name": "Misr Kuwait Investment & Trading Co.",
+    "nameAr": "المصرية الكويتية للأستثمار والتجارة",
+    "enKeywords": [
+      "mkit"
+    ],
+    "arKeywords": [
+      "المصرية الكويتية للأستثمار والتجارة",
+      "المصرية الكويتية",
+      "المصرية الكويتية للأستثمار"
+    ]
+  },
+  {
+    "ticker": "EMFD",
+    "symbolCode": "EGS673Y1C015",
+    "name": "Emaar Misr for Development",
+    "nameAr": "اعمار مصر للتنميه",
+    "enKeywords": [
+      "emfd"
+    ],
+    "arKeywords": [
+      "اعمار مصر للتنميه",
+      "اعمار مصر"
+    ]
+  },
+  {
+    "ticker": "AMER",
+    "symbolCode": "EGS675S1C011",
+    "name": "Amer Group Holding",
+    "nameAr": "مجموعة عامر القابضه ( عامر جروب )",
+    "enKeywords": [
+      "amer"
+    ],
+    "arKeywords": [
+      "مجموعة عامر القابضه",
+      "عامر القابضه"
+    ]
+  },
+  {
+    "ticker": "NARE",
+    "symbolCode": "EGS69191C012",
+    "name": "Al Naeem Real Estate Holding Group",
+    "nameAr": "مجموعة النعيم العقارية القابضه",
+    "enKeywords": [
+      "nare"
+    ],
+    "arKeywords": [
+      "مجموعة النعيم العقارية القابضه",
+      "النعيم العقارية",
+      "النعيم العقارية القابضه"
+    ]
+  },
+  {
+    "ticker": "TMGH",
+    "symbolCode": "EGS691S1C011",
+    "name": "TMG Holding",
+    "nameAr": "مجموعة طلعت مصطفى القابضة",
+    "enKeywords": [
+      "tmgh"
+    ],
+    "arKeywords": [
+      "مجموعة طلعت مصطفى القابضة",
+      "طلعت مصطفى",
+      "طلعت مصطفى القابضة"
+    ]
+  },
+  {
+    "ticker": "ARAB",
+    "symbolCode": "EGS694A1C018",
+    "name": "Arab Developers Holding",
+    "nameAr": "المطورون العرب القابضة",
+    "enKeywords": [
+      "arab",
+      "developers"
+    ],
+    "arKeywords": [
+      "المطورون العرب القابضة",
+      "المطورون العرب"
+    ]
+  },
+  {
+    "ticker": "MAAL",
+    "symbolCode": "EGS739Z1C016",
+    "name": "Marseilia",
+    "nameAr": "مرسيليا المصرية الخليجية للاستثمار العقاري",
+    "enKeywords": [
+      "maal",
+      "marseilia"
+    ],
+    "arKeywords": [
+      "مرسيليا المصرية الخليجية للاستثمار العقاري",
+      "مرسيليا المصرية",
+      "مرسيليا المصرية الخليجية"
+    ]
+  },
+  {
+    "ticker": "MNHD",
+    "symbolCode": null,
+    "name": "Madinet Nasr Housing",
+    "nameAr": "مدينة نصر للإسكان",
+    "enKeywords": [
+      "mnhd",
+      "madinet",
+      "madinet nasr"
+    ],
+    "arKeywords": [
+      "مدينة نصر للإسكان",
+      "مدينة نصر"
+    ]
+  },
+  {
+    "ticker": "DOMT",
+    "symbolCode": "EGS30031C016",
+    "name": "Arab Food Industries (Domty)",
+    "nameAr": "الصناعات الغذائيه العربيه - دومتى",
+    "enKeywords": [
+      "domt"
+    ],
+    "arKeywords": [
+      "الصناعات الغذائيه العربيه - دومتى",
+      "الصناعات الغذائيه",
+      "الصناعات الغذائيه العربيه"
+    ]
+  },
+  {
+    "ticker": "ELNA",
+    "symbolCode": "EGS300L1C011",
+    "name": "El Nasr for Manufacturing Agricultural Crops",
+    "nameAr": "النصر لتصنيع الحاصلات الزراعيه",
+    "enKeywords": [
+      "elna",
+      "manufacturing",
+      "nasr manufacturing",
+      "manufacturing crops"
+    ],
+    "arKeywords": [
+      "النصر لتصنيع الحاصلات الزراعيه",
+      "النصر لتصنيع",
+      "النصر لتصنيع الحاصلات"
+    ]
+  },
+  {
+    "ticker": "SUGR",
+    "symbolCode": "EGS30201C015",
+    "name": "Delta Sugar",
+    "nameAr": "الدلتا للسكر",
+    "enKeywords": [
+      "sugr"
+    ],
+    "arKeywords": [
+      "الدلتا للسكر"
+    ]
+  },
+  {
+    "ticker": "AJWA",
+    "symbolCode": "EGS30211C014",
+    "name": "Ajwa",
+    "nameAr": "اجواء للصناعات الغذائيه",
+    "enKeywords": [
+      "ajwa"
+    ],
+    "arKeywords": [
+      "اجواء للصناعات الغذائيه",
+      "اجواء للصناعات"
+    ]
+  },
+  {
+    "ticker": "ADPC",
+    "symbolCode": "EGS30221C013",
+    "name": "Arab Dairy",
+    "nameAr": "العربية لمنتجات الالبان- اراب ديري",
+    "enKeywords": [
+      "adpc"
+    ],
+    "arKeywords": [
+      "العربية لمنتجات الالبان- اراب ديري",
+      "العربية لمنتجات",
+      "العربية لمنتجات الالبان-"
+    ]
+  },
+  {
+    "ticker": "SNFC",
+    "symbolCode": "EGS30291C016",
+    "name": "Sharkia National Food",
+    "nameAr": "الشرقيه الوطنيه للأمن الغذائي",
+    "enKeywords": [
+      "snfc",
+      "sharkia"
+    ],
+    "arKeywords": [
+      "الشرقيه الوطنيه للأمن الغذائي",
+      "الشرقيه الوطنيه",
+      "الشرقيه الوطنيه للأمن"
+    ]
+  },
+  {
+    "ticker": "SNFI",
+    "symbolCode": "EGS30301C013",
+    "name": "Sohag National Company for Food Industries",
+    "nameAr": "شركة سوهاج الوطنيه للصناعات الغذائيه",
+    "enKeywords": [
+      "snfi"
+    ],
+    "arKeywords": [
+      "شركة سوهاج الوطنيه للصناعات الغذائيه",
+      "سوهاج الوطنيه",
+      "سوهاج الوطنيه للصناعات"
+    ]
+  },
+  {
+    "ticker": "EDFM",
+    "symbolCode": "EGS30351C018",
+    "name": "East Delta Flour Mills",
+    "nameAr": "مطاحن شرق الدلتا",
+    "enKeywords": [
+      "edfm",
+      "flour mills"
+    ],
+    "arKeywords": [
+      "مطاحن شرق الدلتا",
+      "مطاحن شرق"
+    ]
+  },
+  {
+    "ticker": "MILS",
+    "symbolCode": "EGS30361C017",
+    "name": "North Cairo Mills",
+    "nameAr": "مطاحن ومخابز شمال القاهرة",
+    "enKeywords": [
+      "mils"
+    ],
+    "arKeywords": [
+      "مطاحن ومخابز شمال القاهرة",
+      "مطاحن ومخابز",
+      "مطاحن ومخابز شمال"
+    ]
+  },
+  {
+    "ticker": "CEFM",
+    "symbolCode": "EGS30401C011",
+    "name": "Middle Egypt Flour Mills",
+    "nameAr": "مطاحن مصر الوسطي",
+    "enKeywords": [
+      "cefm",
+      "middle flour",
+      "flour mills"
+    ],
+    "arKeywords": [
+      "مطاحن مصر الوسطي",
+      "مطاحن مصر"
+    ]
+  },
+  {
+    "ticker": "SCFM",
+    "symbolCode": "EGS30411C010",
+    "name": "South Cairo & Giza Mills & Bakeries",
+    "nameAr": "مطاحن ومخابز جنوب القاهرة والجيزة",
+    "enKeywords": [
+      "scfm",
+      "bakeries",
+      "giza mills",
+      "mills bakeries"
+    ],
+    "arKeywords": [
+      "مطاحن ومخابز جنوب القاهرة والجيزة",
+      "مطاحن ومخابز",
+      "مطاحن ومخابز جنوب"
+    ]
+  },
+  {
+    "ticker": "WCDF",
+    "symbolCode": "EGS30421C019",
+    "name": "Middle & West Delta Flour Mills",
+    "nameAr": "مطاحن وسط وغرب الدلتا",
+    "enKeywords": [
+      "wcdf",
+      "middle flour",
+      "flour mills"
+    ],
+    "arKeywords": [
+      "مطاحن وسط وغرب الدلتا",
+      "مطاحن وسط",
+      "مطاحن وسط وغرب"
+    ]
+  },
+  {
+    "ticker": "GSSC",
+    "symbolCode": "EGS30441C017",
+    "name": "General Silos & Storage",
+    "nameAr": "العامة للصوامع والتخزين",
+    "enKeywords": [
+      "gssc",
+      "storage",
+      "silos storage"
+    ],
+    "arKeywords": [
+      "العامة للصوامع والتخزين",
+      "العامة للصوامع"
+    ]
+  },
+  {
+    "ticker": "UEFM",
+    "symbolCode": "EGS30451C016",
+    "name": "Upper Egypt Flour Mills",
+    "nameAr": "مطاحن مصر العليا",
+    "enKeywords": [
+      "uefm",
+      "flour mills"
+    ],
+    "arKeywords": [
+      "مطاحن مصر العليا",
+      "مطاحن مصر"
+    ]
+  },
+  {
+    "ticker": "AFMC",
+    "symbolCode": "EGS30471C014",
+    "name": "Alexandria Flour Mills",
+    "nameAr": "مطاحن ومخابز الاسكندرية",
+    "enKeywords": [
+      "afmc",
+      "alexandria",
+      "alexandria flour",
+      "flour mills"
+    ],
+    "arKeywords": [
+      "مطاحن ومخابز الاسكندرية",
+      "مطاحن ومخابز"
+    ]
+  },
+  {
+    "ticker": "COSG",
+    "symbolCode": "EGS30581C010",
+    "name": "Cairo Oils & Soap",
+    "nameAr": "القاهرة للزيوت والصابون",
+    "enKeywords": [
+      "cosg",
+      "oils soap"
+    ],
+    "arKeywords": [
+      "القاهرة للزيوت والصابون",
+      "القاهرة للزيوت"
+    ]
+  },
+  {
+    "ticker": "EFID",
+    "symbolCode": "EGS305I1C011",
+    "name": "Edita Food Industries",
+    "nameAr": "ايديتا للصناعات الغذائيه",
+    "enKeywords": [
+      "efid"
+    ],
+    "arKeywords": [
+      "ايديتا للصناعات الغذائيه",
+      "ايديتا للصناعات"
+    ]
+  },
+  {
+    "ticker": "JUFO",
+    "symbolCode": "EGS30901C010",
+    "name": "Juhayna",
+    "nameAr": "جهينة للصناعات الغذائية",
+    "enKeywords": [
+      "jufo",
+      "juhayna"
+    ],
+    "arKeywords": [
+      "جهينة للصناعات الغذائية",
+      "جهينة للصناعات"
+    ]
+  },
+  {
+    "ticker": "DIFC",
+    "symbolCode": "EGS30AJ1C016",
+    "name": "Difco 2",
+    "nameAr": "الدولية للثلج الجاف - ديفكو 2",
+    "enKeywords": [
+      "difc"
+    ],
+    "arKeywords": [
+      "الدولية للثلج الجاف - ديفكو 2",
+      "الدولية للثلج",
+      "الدولية للثلج الجاف"
+    ]
+  },
+  {
+    "ticker": "OLFI",
+    "symbolCode": "EGS30AL1C012",
+    "name": "Obour Land for Food Industries",
+    "nameAr": "عبورلاند للصناعات الغذائيه",
+    "enKeywords": [
+      "olfi",
+      "obour land"
+    ],
+    "arKeywords": [
+      "عبورلاند للصناعات الغذائيه",
+      "عبورلاند للصناعات"
+    ]
+  },
+  {
+    "ticker": "EAST",
+    "symbolCode": "EGS37091C013",
+    "name": "Eastern Company",
+    "nameAr": "الشرقية للدخان - ايسترن كومباني",
+    "enKeywords": [
+      "east",
+      "eastern"
+    ],
+    "arKeywords": [
+      "الشرقية للدخان - ايسترن كومباني",
+      "الشرقية للدخان",
+      "الشرقية للدخان ايسترن"
+    ]
+  },
+  {
+    "ticker": "MOSC",
+    "symbolCode": "EGS38421C011",
+    "name": "Misr Oils & Soap",
+    "nameAr": "مصر للزيوت و الصابون",
+    "enKeywords": [
+      "mosc",
+      "oils soap"
+    ],
+    "arKeywords": [
+      "مصر للزيوت و الصابون",
+      "مصر للزيوت",
+      "مصر للزيوت الصابون"
+    ]
+  },
+  {
+    "ticker": "UNFO",
+    "symbolCode": "EGS513B1C016",
+    "name": "Univert Food Industries",
+    "nameAr": "يونيفرت للصناعات الغذائية",
+    "enKeywords": [
+      "unfo",
+      "univert"
+    ],
+    "arKeywords": [
+      "يونيفرت للصناعات الغذائية",
+      "يونيفرت للصناعات"
+    ]
+  },
+  {
+    "ticker": "MFSC",
+    "symbolCode": "EGS53051C016",
+    "name": "Misr Duty Free Shops",
+    "nameAr": "مصر للاسواق الحرة",
+    "enKeywords": [
+      "mfsc",
+      "duty free",
+      "free shops"
+    ],
+    "arKeywords": [
+      "مصر للاسواق الحرة",
+      "مصر للاسواق"
+    ]
+  },
+  {
+    "ticker": "GOUR",
+    "symbolCode": "EGS540S1C014",
+    "name": "Gourmet Egypt",
+    "nameAr": "جورمية ايجيبت دوت كوم للاغذية",
+    "enKeywords": [
+      "gour",
+      "gourmet"
+    ],
+    "arKeywords": [
+      "جورمية ايجيبت دوت كوم للاغذية",
+      "جورمية ايجيبت",
+      "جورمية ايجيبت دوت"
+    ]
+  },
+  {
+    "ticker": "SPIN",
+    "symbolCode": "EGS32041C013",
+    "name": "Alexandria Spinning & Weaving (SPINALEX)",
+    "nameAr": "الاسكندرية للغزل والنسيج (سبينالكس)",
+    "enKeywords": [
+      "spin",
+      "alexandria",
+      "spinning",
+      "weaving",
+      "spinalex",
+      "alexandria spinning",
+      "spinning weaving",
+      "weaving spinalex"
+    ],
+    "arKeywords": [
+      "الاسكندرية للغزل والنسيج",
+      "الاسكندرية للغزل"
+    ]
+  },
+  {
+    "ticker": "NCGC",
+    "symbolCode": "EGS32131C012",
+    "name": "Nile Cotton Ginning",
+    "nameAr": "النيل لحليج الاقطان",
+    "enKeywords": [
+      "ncgc",
+      "ginning",
+      "cotton ginning"
+    ],
+    "arKeywords": [
+      "النيل لحليج الاقطان",
+      "النيل لحليج"
+    ]
+  },
+  {
+    "ticker": "GTWL",
+    "symbolCode": "EGS32161C019",
+    "name": "Goldentex",
+    "nameAr": "جولدن تكس للاصواف",
+    "enKeywords": [
+      "gtwl",
+      "goldentex"
+    ],
+    "arKeywords": [
+      "جولدن تكس للاصواف",
+      "جولدن تكس"
+    ]
+  },
+  {
+    "ticker": "ACGC",
+    "symbolCode": "EGS32221C011",
+    "name": "Arab Cotton Ginning",
+    "nameAr": "العربية لحليج الأقطان",
+    "enKeywords": [
+      "acgc",
+      "ginning",
+      "cotton ginning"
+    ],
+    "arKeywords": [
+      "العربية لحليج الأقطان",
+      "العربية لحليج"
+    ]
+  },
+  {
+    "ticker": "APSW",
+    "symbolCode": "EGS32331C018",
+    "name": "Unirab",
+    "nameAr": "العربية وبولفارا للغزل والنسيج",
+    "enKeywords": [
+      "apsw"
+    ],
+    "arKeywords": [
+      "العربية وبولفارا للغزل والنسيج",
+      "العربية وبولفارا",
+      "العربية وبولفارا للغزل"
+    ]
+  },
+  {
+    "ticker": "ORWE",
+    "symbolCode": "EGS33041C012",
+    "name": "Oriental Weavers",
+    "nameAr": "النساجون الشرقيون",
+    "enKeywords": [
+      "orwe",
+      "oriental",
+      "weavers",
+      "oriental weavers"
+    ],
+    "arKeywords": [
+      "النساجون الشرقيون"
+    ]
+  },
+  {
+    "ticker": "KABO",
+    "symbolCode": "EGS33061C010",
+    "name": "Kabo",
+    "nameAr": "النصر للملابس والمنسوجات - كابو",
+    "enKeywords": [
+      "kabo"
+    ],
+    "arKeywords": [
+      "النصر للملابس والمنسوجات - كابو",
+      "النصر للملابس",
+      "النصر للملابس والمنسوجات"
+    ]
+  },
+  {
+    "ticker": "DSCW",
+    "symbolCode": "EGS33321C018",
+    "name": "DICE",
+    "nameAr": "دايس للملابس الجاهزه",
+    "enKeywords": [
+      "dscw"
+    ],
+    "arKeywords": [
+      "دايس للملابس الجاهزه",
+      "دايس للملابس"
+    ]
+  },
+  {
+    "ticker": "RAKT",
+    "symbolCode": "EGS36021C011",
+    "name": "Rakta Paper Manufacturing",
+    "nameAr": "العامة لصناعة الورق - راكتا",
+    "enKeywords": [
+      "rakt",
+      "manufacturing",
+      "rakta paper",
+      "paper manufacturing"
+    ],
+    "arKeywords": [
+      "العامة لصناعة الورق - راكتا",
+      "العامة لصناعة",
+      "العامة لصناعة الورق"
+    ]
+  },
+  {
+    "ticker": "SBAG",
+    "symbolCode": "EGS36041C019",
+    "name": "Suez Bags",
+    "nameAr": "السويس للاكياس",
+    "enKeywords": [
+      "sbag"
+    ],
+    "arKeywords": [
+      "السويس للاكياس"
+    ]
+  },
+  {
+    "ticker": "SIMO",
+    "symbolCode": "EGS36091C014",
+    "name": "Paper Middle East (Simo)",
+    "nameAr": "الورق للشرق الاوسط - سيمو",
+    "enKeywords": [
+      "simo",
+      "paper middle",
+      "middle simo"
+    ],
+    "arKeywords": [
+      "الورق للشرق الاوسط - سيمو",
+      "الورق للشرق",
+      "الورق للشرق الاوسط"
+    ]
+  },
+  {
+    "ticker": "EPPK",
+    "symbolCode": "EGS360A1C011",
+    "name": "El Ahram for Packing",
+    "nameAr": "الاهرام للطباعه والتغليف",
+    "enKeywords": [
+      "eppk",
+      "packing",
+      "ahram packing"
+    ],
+    "arKeywords": [
+      "الاهرام للطباعه والتغليف",
+      "الاهرام للطباعه"
+    ]
+  },
+  {
+    "ticker": "NAPR",
+    "symbolCode": "EGS370O1C013",
+    "name": "National Printing",
+    "nameAr": "الوطنية للطباعة",
+    "enKeywords": [
+      "napr",
+      "printing"
+    ],
+    "arKeywords": [
+      "الوطنية للطباعة"
+    ]
+  },
+  {
+    "ticker": "DTPP",
+    "symbolCode": "EGS370W1C013",
+    "name": "Delta for Printing & Packaging",
+    "nameAr": "دلتا للطباعة",
+    "enKeywords": [
+      "dtpp",
+      "printing",
+      "packaging",
+      "printing packaging"
+    ],
+    "arKeywords": [
+      "دلتا للطباعة"
+    ]
+  },
+  {
+    "ticker": "SMPP",
+    "symbolCode": "EGS3A0A1C016",
+    "name": "Modern Shorouk Printing & Packaging",
+    "nameAr": "الشروق الحديثه للطباعه والتغليف",
+    "enKeywords": [
+      "smpp",
+      "shorouk",
+      "printing",
+      "packaging",
+      "shorouk printing",
+      "printing packaging"
+    ],
+    "arKeywords": [
+      "الشروق الحديثه للطباعه والتغليف",
+      "الشروق الحديثه",
+      "الشروق الحديثه للطباعه"
+    ]
+  },
+  {
+    "ticker": "PHAR",
+    "symbolCode": "EGS38081C013",
+    "name": "Egyptian International Pharmaceuticals (EIPICO)",
+    "nameAr": "المصرية الدولية للصناعات الدوائية- ايبكو",
+    "enKeywords": [
+      "phar",
+      "pharmaceuticals",
+      "pharmaceuticals eipico"
+    ],
+    "arKeywords": [
+      "المصرية الدولية للصناعات الدوائية- ايبكو",
+      "المصرية الدولية",
+      "المصرية الدولية للصناعات"
+    ]
+  },
+  {
+    "ticker": "MIPH",
+    "symbolCode": "EGS380G1C011",
+    "name": "Minapharm Pharmaceuticals",
+    "nameAr": "مينا فارم للأدوية والصناعات الكيماوية",
+    "enKeywords": [
+      "miph",
+      "minapharm",
+      "pharmaceuticals",
+      "minapharm pharmaceuticals"
+    ],
+    "arKeywords": [
+      "مينا فارم للأدوية والصناعات الكيماوية",
+      "مينا فارم",
+      "مينا فارم للأدوية"
+    ]
+  },
+  {
+    "ticker": "OCPH",
+    "symbolCode": "EGS380R1C018",
+    "name": "October Pharma",
+    "nameAr": "اكتوبر فارما",
+    "enKeywords": [
+      "ocph",
+      "october",
+      "october pharma"
+    ],
+    "arKeywords": [
+      "اكتوبر فارما"
+    ]
+  },
+  {
+    "ticker": "UNIP",
+    "symbolCode": "EGS38161C013",
+    "name": "Universal (Unipack)",
+    "nameAr": "يونيفرسال لصناعة مواد التعبئه والتغليف والورق - يونيباك",
+    "enKeywords": [
+      "unip",
+      "universal",
+      "unipack",
+      "universal unipack"
+    ],
+    "arKeywords": [
+      "يونيفرسال لصناعة مواد التعبئه والتغليف والورق - يونيباك",
+      "يونيفرسال لصناعة",
+      "يونيفرسال لصناعة مواد"
+    ]
+  },
+  {
+    "ticker": "BIOC",
+    "symbolCode": "EGS38171C012",
+    "name": "Glaxo Smith Kline",
+    "nameAr": "جلاكسو ولكام",
+    "enKeywords": [
+      "bioc",
+      "glaxo smith",
+      "smith kline"
+    ],
+    "arKeywords": [
+      "جلاكسو ولكام"
+    ]
+  },
+  {
+    "ticker": "RMDA",
+    "symbolCode": "EGS381B1C015",
+    "name": "10th of Ramadan Pharmaceuticals (Rameda)",
+    "nameAr": "العاشر من رمضان للصناعات الدوائية - راميدا",
+    "enKeywords": [
+      "rmda",
+      "ramadan",
+      "pharmaceuticals",
+      "10th ramadan",
+      "ramadan pharmaceuticals",
+      "pharmaceuticals rameda"
+    ],
+    "arKeywords": [
+      "العاشر من رمضان للصناعات الدوائية - راميدا",
+      "العاشر من",
+      "العاشر من رمضان"
+    ]
+  },
+  {
+    "ticker": "ADCI",
+    "symbolCode": "EGS38321C013",
+    "name": "ADCO",
+    "nameAr": "العربية للادوية والصناعات الكيماوية",
+    "enKeywords": [
+      "adci"
+    ],
+    "arKeywords": [
+      "العربية للادوية والصناعات الكيماوية",
+      "العربية للادوية",
+      "العربية للادوية والصناعات"
+    ]
+  },
+  {
+    "ticker": "NIPH",
+    "symbolCode": "EGS38331C012",
+    "name": "Nile Pharmaceuticals",
+    "nameAr": "النيل للادوية والصناعات الكيماوية",
+    "enKeywords": [
+      "niph",
+      "pharmaceuticals"
+    ],
+    "arKeywords": [
+      "النيل للادوية والصناعات الكيماوية",
+      "النيل للادوية",
+      "النيل للادوية والصناعات"
+    ]
+  },
+  {
+    "ticker": "AXPH",
+    "symbolCode": "EGS38341C011",
+    "name": "Alexandria Pharmaceuticals",
+    "nameAr": "الاسكندرية للادوية والصناعات الكيماوية",
+    "enKeywords": [
+      "axph",
+      "alexandria",
+      "pharmaceuticals",
+      "alexandria pharmaceuticals"
+    ],
+    "arKeywords": [
+      "الاسكندرية للادوية والصناعات الكيماوية",
+      "الاسكندرية للادوية",
+      "الاسكندرية للادوية والصناعات"
+    ]
+  },
+  {
+    "ticker": "MPCI",
+    "symbolCode": "EGS38351C010",
+    "name": "Memphis Pharmaceutical",
+    "nameAr": "ممفيس للادوية والصناعات الكيماوية",
+    "enKeywords": [
+      "mpci",
+      "memphis",
+      "pharmaceutical",
+      "memphis pharmaceutical"
+    ],
+    "arKeywords": [
+      "ممفيس للادوية والصناعات الكيماوية",
+      "ممفيس للادوية",
+      "ممفيس للادوية والصناعات"
+    ]
+  },
+  {
+    "ticker": "CPCI",
+    "symbolCode": "EGS38391C016",
+    "name": "Kahira Pharmaceuticals",
+    "nameAr": "القاهرة للادوية والصناعات الكيماوية",
+    "enKeywords": [
+      "cpci",
+      "pharmaceuticals",
+      "kahira pharmaceuticals"
+    ],
+    "arKeywords": [
+      "القاهرة للادوية والصناعات الكيماوية",
+      "القاهرة للادوية",
+      "القاهرة للادوية والصناعات"
+    ]
+  },
+  {
+    "ticker": "APPC",
+    "symbolCode": "EGS38461C017",
+    "name": "Advanced Pharmaceutical Packaging",
+    "nameAr": "العبوات الدوائية المتطورة",
+    "enKeywords": [
+      "appc",
+      "advanced",
+      "pharmaceutical",
+      "packaging",
+      "advanced pharmaceutical",
+      "pharmaceutical packaging"
+    ],
+    "arKeywords": [
+      "العبوات الدوائية المتطورة",
+      "العبوات الدوائية"
+    ]
+  },
+  {
+    "ticker": "ISPH",
+    "symbolCode": "EGS512O1C012",
+    "name": "Ibn Sina Pharma",
+    "nameAr": "ابن سينا فارما",
+    "enKeywords": [
+      "isph",
+      "ibn sina",
+      "sina pharma"
+    ],
+    "arKeywords": [
+      "ابن سينا فارما",
+      "ابن سينا"
+    ]
+  },
+  {
+    "ticker": "MCRO",
+    "symbolCode": "EGS7D971C011",
+    "name": "Macro Group Pharmaceuticals",
+    "nameAr": "ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال",
+    "enKeywords": [
+      "mcro",
+      "pharmaceuticals",
+      "macro pharmaceuticals"
+    ],
+    "arKeywords": [
+      "ماكرو جروب للمستحضرات الطبية-ماكرو كابيتال",
+      "ماكرو جروب",
+      "ماكرو جروب للمستحضرات"
+    ]
+  },
+  {
+    "ticker": "EGCH",
+    "symbolCode": "EGS38201C017",
+    "name": "Egyptian Chemical Industries (Kima)",
+    "nameAr": "الصناعات الكيماوية المصرية - كيما",
+    "enKeywords": [
+      "egch",
+      "chemical",
+      "chemical kima"
+    ],
+    "arKeywords": [
+      "الصناعات الكيماوية المصرية - كيما",
+      "الصناعات الكيماوية",
+      "الصناعات الكيماوية المصرية"
+    ]
+  },
+  {
+    "ticker": "MICH",
+    "symbolCode": "EGS38211C016",
+    "name": "Misr Chemical Industries",
+    "nameAr": "مصر لصناعة الكيماويات",
+    "enKeywords": [
+      "mich",
+      "chemical"
+    ],
+    "arKeywords": [
+      "مصر لصناعة الكيماويات",
+      "مصر لصناعة"
+    ]
+  },
+  {
+    "ticker": "ZEOT",
+    "symbolCode": "EGS38251C012",
+    "name": "Extracted Oils",
+    "nameAr": "الزيوت المستخلصة ومنتجاتها",
+    "enKeywords": [
+      "zeot",
+      "extracted",
+      "extracted oils"
+    ],
+    "arKeywords": [
+      "الزيوت المستخلصة ومنتجاتها",
+      "الزيوت المستخلصة"
+    ]
+  },
+  {
+    "ticker": "SIPC",
+    "symbolCode": "EGS382M1C011",
+    "name": "Sabaa",
+    "nameAr": "سبأ الدولية للصناعات الكيماوية",
+    "enKeywords": [
+      "sipc"
+    ],
+    "arKeywords": [
+      "سبأ الدولية للصناعات الكيماوية",
+      "سبأ الدولية",
+      "سبأ الدولية للصناعات"
+    ]
+  },
+  {
+    "ticker": "PACH",
+    "symbolCode": "EGS38311C014",
+    "name": "Paint & Chemicals Industries (Pachin)",
+    "nameAr": "البويات والصناعات الكيماوية - باكين",
+    "enKeywords": [
+      "pach",
+      "chemicals",
+      "paint chemicals",
+      "chemicals pachin"
+    ],
+    "arKeywords": [
+      "البويات والصناعات الكيماوية - باكين",
+      "البويات والصناعات",
+      "البويات والصناعات الكيماوية"
+    ]
+  },
+  {
+    "ticker": "KZPC",
+    "symbolCode": "EGS38411C012",
+    "name": "Kafr El Zayat Pesticides",
+    "nameAr": "كفر الزيات للمبيدات والكيماويات",
+    "enKeywords": [
+      "kzpc",
+      "pesticides",
+      "kafr zayat",
+      "zayat pesticides"
+    ],
+    "arKeywords": [
+      "كفر الزيات للمبيدات والكيماويات",
+      "كفر الزيات",
+      "كفر الزيات للمبيدات"
+    ]
+  },
+  {
+    "ticker": "FERC",
+    "symbolCode": "EGS385S1C012",
+    "name": "Ferchem Misr for Fertilizers & Chemicals",
+    "nameAr": "فيركيم مصر للاسمدة والكيماويات",
+    "enKeywords": [
+      "ferc",
+      "ferchem",
+      "fertilizers",
+      "chemicals",
+      "ferchem fertilizers",
+      "fertilizers chemicals"
+    ],
+    "arKeywords": [
+      "فيركيم مصر للاسمدة والكيماويات",
+      "فيركيم مصر",
+      "فيركيم مصر للاسمدة"
+    ]
+  },
+  {
+    "ticker": "MFPC",
+    "symbolCode": "EGS39061C014",
+    "name": "Misr Fertilizers Production Company (Mopco)",
+    "nameAr": "مصر لانتاج الاسمدة(موبكو)",
+    "enKeywords": [
+      "mfpc",
+      "fertilizers",
+      "production",
+      "fertilizers production",
+      "production mopco"
+    ],
+    "arKeywords": [
+      "مصر لانتاج الاسمدة",
+      "مصر لانتاج"
+    ]
+  },
+  {
+    "ticker": "AMOC",
+    "symbolCode": "EGS380P1C010",
+    "name": "Alexandria Mineral Oils (Amok)",
+    "nameAr": "الاسكندرية للزيوت المعدنية - اموك",
+    "enKeywords": [
+      "amoc",
+      "alexandria",
+      "mineral",
+      "alexandria mineral",
+      "mineral oils",
+      "oils amok"
+    ],
+    "arKeywords": [
+      "الاسكندرية للزيوت المعدنية - اموك",
+      "الاسكندرية للزيوت",
+      "الاسكندرية للزيوت المعدنية"
+    ]
+  },
+  {
+    "ticker": "SKPC",
+    "symbolCode": "EGS380S1C017",
+    "name": "Sidi Kerir Petrochemicals",
+    "nameAr": "سيدى كريرللبتروكيماويات - سيدبك",
+    "enKeywords": [
+      "skpc",
+      "petrochemicals",
+      "sidi kerir",
+      "kerir petrochemicals"
+    ],
+    "arKeywords": [
+      "سيدى كريرللبتروكيماويات - سيدبك",
+      "سيدى كريرللبتروكيماويات",
+      "سيدى كريرللبتروكيماويات سيدبك"
+    ]
+  },
+  {
+    "ticker": "EGAS",
+    "symbolCode": "EGS39011C019",
+    "name": "Egypt Gas",
+    "nameAr": "غاز مصر",
+    "enKeywords": [
+      "egas"
+    ],
+    "arKeywords": [
+      "غاز مصر"
+    ]
+  },
+  {
+    "ticker": "TAQA",
+    "symbolCode": "EGS490S1C014",
+    "name": "Taqa Arabia",
+    "nameAr": "طاقة عربية",
+    "enKeywords": [
+      "taqa",
+      "taqa arabia"
+    ],
+    "arKeywords": [
+      "طاقة عربية"
+    ]
+  },
+  {
+    "ticker": "NDRL",
+    "symbolCode": "EGS735N2C012",
+    "name": "National Drilling",
+    "nameAr": "الحفر الوطنية",
+    "enKeywords": [
+      "ndrl",
+      "drilling"
+    ],
+    "arKeywords": [
+      "الحفر الوطنية"
+    ]
+  },
+  {
+    "ticker": "ABUK",
+    "symbolCode": "EGS38191C010",
+    "name": "Abu Qir Fertilizers",
+    "nameAr": "ابوقير للاسمدة والصناعات الكيماوية",
+    "enKeywords": [
+      "abuk",
+      "fertilizers",
+      "abu qir",
+      "qir fertilizers"
+    ],
+    "arKeywords": [
+      "ابوقير للاسمدة والصناعات الكيماوية",
+      "ابوقير للاسمدة",
+      "ابوقير للاسمدة والصناعات"
+    ]
+  },
+  {
+    "ticker": "EFIC",
+    "symbolCode": "EGS38381C017",
+    "name": "Egyptian Financial & Industrial",
+    "nameAr": "المالية و الصناعية المصرية",
+    "enKeywords": [
+      "efic"
+    ],
+    "arKeywords": [
+      "المالية و الصناعية المصرية",
+      "المالية الصناعية",
+      "المالية الصناعية المصرية"
+    ]
+  },
+  {
+    "ticker": "RUBX",
+    "symbolCode": "EGS3A221C018",
+    "name": "Rubex Plastics",
+    "nameAr": "روبكس العالميه لتصنيع البلاستيك والاكريلك",
+    "enKeywords": [
+      "rubx",
+      "plastics",
+      "rubex plastics"
+    ],
+    "arKeywords": [
+      "روبكس العالميه لتصنيع البلاستيك والاكريلك",
+      "روبكس العالميه",
+      "روبكس العالميه لتصنيع"
+    ]
+  },
+  {
+    "ticker": "MEGM",
+    "symbolCode": "EGS3C001C012",
+    "name": "Middle East Glass Manufacturing",
+    "nameAr": "الشرق الأوسط لصناعة الزجاج",
+    "enKeywords": [
+      "megm",
+      "manufacturing",
+      "middle glass",
+      "glass manufacturing"
+    ],
+    "arKeywords": [
+      "الشرق الأوسط لصناعة الزجاج",
+      "الأوسط لصناعة",
+      "الأوسط لصناعة الزجاج"
+    ]
+  },
+  {
+    "ticker": "ECAP",
+    "symbolCode": "EGS3C071C015",
+    "name": "El Ezz Porcelain (Gemma)",
+    "nameAr": "العز للبورسلين - الجوهره",
+    "enKeywords": [
+      "ecap",
+      "porcelain",
+      "ezz porcelain",
+      "porcelain gemma"
+    ],
+    "arKeywords": [
+      "العز للبورسلين - الجوهره",
+      "العز للبورسلين",
+      "العز للبورسلين الجوهره"
+    ]
+  },
+  {
+    "ticker": "ARCC",
+    "symbolCode": "EGS3C0O1C016",
+    "name": "Arabian Cement",
+    "nameAr": "العربية للاسمنت",
+    "enKeywords": [
+      "arcc",
+      "arabian",
+      "arabian cement"
+    ],
+    "arKeywords": [
+      "العربية للاسمنت"
+    ]
+  },
+  {
+    "ticker": "PRCL",
+    "symbolCode": "EGS3C111C019",
+    "name": "Ceramic & Porcelain Sheeni",
+    "nameAr": "العامة لمنتجات الخزف والصيني شينى",
+    "enKeywords": [
+      "prcl",
+      "ceramic",
+      "porcelain",
+      "ceramic porcelain",
+      "porcelain sheeni"
+    ],
+    "arKeywords": [
+      "العامة لمنتجات الخزف والصيني شينى",
+      "العامة لمنتجات",
+      "العامة لمنتجات الخزف"
+    ]
+  },
+  {
+    "ticker": "CERA",
+    "symbolCode": "EGS3C151C015",
+    "name": "Arab Ceramics (Remas)",
+    "nameAr": "العربية للخزف - سيراميكا ريماس",
+    "enKeywords": [
+      "cera",
+      "ceramics",
+      "ceramics remas"
+    ],
+    "arKeywords": [
+      "العربية للخزف - سيراميكا ريماس",
+      "العربية للخزف",
+      "العربية للخزف سيراميكا"
+    ]
+  },
+  {
+    "ticker": "LCSW",
+    "symbolCode": "EGS3C161C014",
+    "name": "Egypt Lebanon Ceramics (Lecico)",
+    "nameAr": "ليسيكو مصر",
+    "enKeywords": [
+      "lcsw",
+      "lebanon",
+      "ceramics",
+      "lebanon ceramics",
+      "ceramics lecico"
+    ],
+    "arKeywords": [
+      "ليسيكو مصر"
+    ]
+  },
+  {
+    "ticker": "SUCE",
+    "symbolCode": "EGS3C181C012",
+    "name": "Suez Cement",
+    "nameAr": "السويس للاسمنت",
+    "enKeywords": [
+      "suce"
+    ],
+    "arKeywords": [
+      "السويس للاسمنت"
+    ]
+  },
+  {
+    "ticker": "ESRS",
+    "symbolCode": "EGS3C251C013",
+    "name": "Ezz Steel",
+    "nameAr": "حديد عز",
+    "enKeywords": [
+      "esrs",
+      "ezz steel"
+    ],
+    "arKeywords": [
+      "حديد عز"
+    ]
+  },
+  {
+    "ticker": "TORA",
+    "symbolCode": "EGS3C311C015",
+    "name": "Tourah Cement",
+    "nameAr": "اسمنت بورتلاند طرة المصرية",
+    "enKeywords": [
+      "tora",
+      "tourah cement"
+    ],
+    "arKeywords": [
+      "اسمنت بورتلاند طرة المصرية",
+      "اسمنت بورتلاند",
+      "اسمنت بورتلاند طرة"
+    ]
+  },
+  {
+    "ticker": "SVCE",
+    "symbolCode": "EGS3C351C011",
+    "name": "South Valley Cement",
+    "nameAr": "جنوب الوادى للاسمنت",
+    "enKeywords": [
+      "svce",
+      "valley cement"
+    ],
+    "arKeywords": [
+      "جنوب الوادى للاسمنت",
+      "جنوب الوادى"
+    ]
+  },
+  {
+    "ticker": "MBSC",
+    "symbolCode": "EGS3C371C019",
+    "name": "Misr Beni Suef Cement",
+    "nameAr": "مصر بنى سويف للاسمنت",
+    "enKeywords": [
+      "mbsc",
+      "beni suef",
+      "suef cement"
+    ],
+    "arKeywords": [
+      "مصر بنى سويف للاسمنت",
+      "مصر بنى",
+      "مصر بنى سويف"
+    ]
+  },
+  {
+    "ticker": "MCQE",
+    "symbolCode": "EGS3C391C017",
+    "name": "Misr Cement Qena",
+    "nameAr": "مصر للاسمنت - قنا",
+    "enKeywords": [
+      "mcqe",
+      "cement qena"
+    ],
+    "arKeywords": [
+      "مصر للاسمنت - قنا",
+      "مصر للاسمنت",
+      "مصر للاسمنت قنا"
+    ]
+  },
+  {
+    "ticker": "SCEM",
+    "symbolCode": "EGS3C401C014",
+    "name": "Sinai Cement",
+    "nameAr": "اسمنت سيناء",
+    "enKeywords": [
+      "scem",
+      "sinai cement"
+    ],
+    "arKeywords": [
+      "اسمنت سيناء"
+    ]
+  },
+  {
+    "ticker": "MEPA",
+    "symbolCode": "EGS3C4L1C015",
+    "name": "Medical Packaging",
+    "nameAr": "العبوات الطبية",
+    "enKeywords": [
+      "mepa",
+      "medical",
+      "packaging",
+      "medical packaging"
+    ],
+    "arKeywords": [
+      "العبوات الطبية"
+    ]
+  },
+  {
+    "ticker": "MISR",
+    "symbolCode": "EGS3C4P1C011",
+    "name": "Misr Intercontinental for Granite & Marble (Egy-Ston)",
+    "nameAr": "مصر انتركوننتال لصناعة الجرانيت والرخام (ايجى ستون)",
+    "enKeywords": [
+      "misr",
+      "intercontinental",
+      "granite",
+      "intercontinental granite",
+      "granite marble",
+      "marble egy",
+      "egy ston"
+    ],
+    "arKeywords": [
+      "مصر انتركوننتال لصناعة الجرانيت والرخام",
+      "مصر انتركوننتال",
+      "مصر انتركوننتال لصناعة"
+    ]
+  },
+  {
+    "ticker": "ALEX",
+    "symbolCode": "EGS3H051C012",
+    "name": "Alexandria Cement",
+    "nameAr": "اسكندريه للاسمنت - بورتلاند",
+    "enKeywords": [
+      "alex",
+      "alexandria",
+      "alexandria cement"
+    ],
+    "arKeywords": [
+      "اسكندريه للاسمنت - بورتلاند",
+      "اسكندريه للاسمنت",
+      "اسكندريه للاسمنت بورتلاند"
+    ]
+  },
+  {
+    "ticker": "WATP",
+    "symbolCode": "EGS3J041C011",
+    "name": "Modern Insulation Materials (Bitumode)",
+    "nameAr": "الشركة الحديثة للمواد العازلة- مودرن -  بيتومود",
+    "enKeywords": [
+      "watp",
+      "insulation",
+      "materials",
+      "bitumode",
+      "insulation materials",
+      "materials bitumode"
+    ],
+    "arKeywords": [
+      "الشركة الحديثة للمواد العازلة- مودرن -  بيتومود",
+      "الحديثة للمواد",
+      "الحديثة للمواد العازلة-"
+    ]
+  },
+  {
+    "ticker": "SMFR",
+    "symbolCode": "EGS51191C012",
+    "name": "EGYFERT",
+    "nameAr": "شركة سماد مصر ايجيفرت",
+    "enKeywords": [
+      "smfr",
+      "egyfert"
+    ],
+    "arKeywords": [
+      "شركة سماد مصر ايجيفرت",
+      "سماد مصر",
+      "سماد مصر ايجيفرت"
+    ]
+  },
+  {
+    "ticker": "ICFC",
+    "symbolCode": "EGS520D1C015",
+    "name": "El Dawlia Fertilizers",
+    "nameAr": "الدولية للأسمدة والكيماويات",
+    "enKeywords": [
+      "icfc",
+      "fertilizers",
+      "dawlia fertilizers"
+    ],
+    "arKeywords": [
+      "الدولية للأسمدة والكيماويات",
+      "الدولية للأسمدة"
+    ]
+  },
+  {
+    "ticker": "IEEC",
+    "symbolCode": "EGS22171C010",
+    "name": "Industrial and Engineering Projects",
+    "nameAr": "المشروعات الصناعية والهندسية",
+    "enKeywords": [
+      "ieec",
+      "engineering",
+      "projects",
+      "engineering projects"
+    ],
+    "arKeywords": [
+      "المشروعات الصناعية والهندسية"
+    ]
+  },
+  {
+    "ticker": "ALUM",
+    "symbolCode": "EGS3D031C018",
+    "name": "Arab Aluminum",
+    "nameAr": "الالومنيوم العربية",
+    "enKeywords": [
+      "alum",
+      "aluminum"
+    ],
+    "arKeywords": [
+      "الالومنيوم العربية"
+    ]
+  },
+  {
+    "ticker": "IRAX",
+    "symbolCode": "EGS3D041C017",
+    "name": "Ezz Dekhela",
+    "nameAr": "العز الدخيله للصلب - الاسكندريه",
+    "enKeywords": [
+      "irax",
+      "dekhela",
+      "ezz dekhela"
+    ],
+    "arKeywords": [
+      "العز الدخيله للصلب - الاسكندريه",
+      "العز الدخيله",
+      "العز الدخيله للصلب"
+    ]
+  },
+  {
+    "ticker": "IRON",
+    "symbolCode": "EGS3D061C015",
+    "name": "Egyptian Iron & Steel",
+    "nameAr": "الحديد والصلب المصرية-تحت التصفية",
+    "enKeywords": [
+      "iron",
+      "iron steel"
+    ],
+    "arKeywords": [
+      "الحديد والصلب المصرية-تحت التصفية",
+      "الحديد والصلب",
+      "الحديد والصلب المصرية-تحت"
+    ]
+  },
+  {
+    "ticker": "ATQA",
+    "symbolCode": "EGS3D0C1C018",
+    "name": "Misr National Steel (Ataqa)",
+    "nameAr": "مصر الوطنيه للصلب - عتاقه",
+    "enKeywords": [
+      "atqa",
+      "steel ataqa"
+    ],
+    "arKeywords": [
+      "مصر الوطنيه للصلب - عتاقه",
+      "مصر الوطنيه",
+      "مصر الوطنيه للصلب"
+    ]
+  },
+  {
+    "ticker": "ACRO",
+    "symbolCode": "EGS3E071C013",
+    "name": "Acrow Misr",
+    "nameAr": "اكرومصر للشدات والثقلات المعدنية",
+    "enKeywords": [
+      "acro"
+    ],
+    "arKeywords": [
+      "اكرومصر للشدات والثقلات المعدنية",
+      "اكرومصر للشدات",
+      "اكرومصر للشدات والثقلات"
+    ]
+  },
+  {
+    "ticker": "EGAL",
+    "symbolCode": "EGS3E181C010",
+    "name": "Egypt Aluminum",
+    "nameAr": "مصر للالومنيوم",
+    "enKeywords": [
+      "egal",
+      "aluminum"
+    ],
+    "arKeywords": [
+      "مصر للالومنيوم"
+    ]
+  },
+  {
+    "ticker": "ARVA",
+    "symbolCode": "EGS3E1E1C013",
+    "name": "Arab Valves Company",
+    "nameAr": "العربيه للمحابس",
+    "enKeywords": [
+      "arva"
+    ],
+    "arKeywords": [
+      "العربيه للمحابس"
+    ]
+  },
+  {
+    "ticker": "INEG",
+    "symbolCode": "EGS3E3B1C014",
+    "name": "Group Integrated Engineering Works",
+    "nameAr": "المجموعه المتكاملة للأعمال الهندسية",
+    "enKeywords": [
+      "ineg",
+      "integrated",
+      "engineering",
+      "integrated engineering",
+      "engineering works"
+    ],
+    "arKeywords": [
+      "المجموعه المتكاملة للأعمال الهندسية",
+      "المجموعه المتكاملة",
+      "المجموعه المتكاملة للأعمال"
+    ]
+  },
+  {
+    "ticker": "ENGC",
+    "symbolCode": "EGS3F021C017",
+    "name": "Engineering Industries (ICON)",
+    "nameAr": "الصناعات الهندسية المعمارية للانشاء والتعمير - ايكون",
+    "enKeywords": [
+      "engc",
+      "engineering",
+      "engineering icon"
+    ],
+    "arKeywords": [
+      "الصناعات الهندسية المعمارية للانشاء والتعمير - ايكون",
+      "الصناعات الهندسية",
+      "الصناعات الهندسية المعمارية"
+    ]
+  },
+  {
+    "ticker": "SWDY",
+    "symbolCode": "EGS3G0Z1C014",
+    "name": "El Sewedy Electric",
+    "nameAr": "السويدي اليكتريك",
+    "enKeywords": [
+      "swdy",
+      "electric",
+      "sewedy electric"
+    ],
+    "arKeywords": [
+      "السويدي اليكتريك"
+    ]
+  },
+  {
+    "ticker": "EEII",
+    "symbolCode": "EGS3G111C015",
+    "name": "Arab Engineering Industries",
+    "nameAr": "العربية للصناعات الهندسية",
+    "enKeywords": [
+      "eeii",
+      "engineering"
+    ],
+    "arKeywords": [
+      "العربية للصناعات الهندسية",
+      "العربية للصناعات"
+    ]
+  },
+  {
+    "ticker": "ELEC",
+    "symbolCode": "EGS3G231C011",
+    "name": "Electro Cable Egypt",
+    "nameAr": "الكابلات الكهربائية المصرية",
+    "enKeywords": [
+      "elec",
+      "electro",
+      "electro cable"
+    ],
+    "arKeywords": [
+      "الكابلات الكهربائية المصرية",
+      "الكابلات الكهربائية"
+    ]
+  },
+  {
+    "ticker": "GDWA",
+    "symbolCode": "EGS3JM11C012",
+    "name": "Jadwa Industrial Development",
+    "nameAr": "جدوى للتنمية الصناعية",
+    "enKeywords": [
+      "gdwa"
+    ],
+    "arKeywords": [
+      "جدوى للتنمية الصناعية",
+      "جدوى للتنمية"
+    ]
+  },
+  {
+    "ticker": "GMCI",
+    "symbolCode": "EGS46051C016",
+    "name": "GMC Group for Industrial Commercial & Financial Investments",
+    "nameAr": "مجموعه جى إم سى للاستثمارات الصناعية والتجارية والماليه",
+    "enKeywords": [
+      "gmci",
+      "investments",
+      "gmc investments"
+    ],
+    "arKeywords": [
+      "مجموعه جى إم سى للاستثمارات الصناعية والتجارية والماليه",
+      "مجموعه جى",
+      "مجموعه جى إم"
+    ]
+  },
+  {
+    "ticker": "MTIE",
+    "symbolCode": "EGS75011C014",
+    "name": "MM Group for Manufacturing & Trading",
+    "nameAr": "ام ام جروب للصناعات والتجاره العالميه",
+    "enKeywords": [
+      "mtie",
+      "manufacturing"
+    ],
+    "arKeywords": [
+      "ام ام جروب للصناعات والتجاره العالميه",
+      "ام ام",
+      "ام ام جروب"
+    ]
+  },
+  {
+    "ticker": "ETRS",
+    "symbolCode": "EGS42051C010",
+    "name": "Egyptian Transport (EGYTRANS)",
+    "nameAr": "المصريه لخدمات النقل (ايجيترانس)",
+    "enKeywords": [
+      "etrs",
+      "transport",
+      "egytrans",
+      "transport egytrans"
+    ],
+    "arKeywords": [
+      "المصريه لخدمات النقل",
+      "المصريه لخدمات"
+    ]
+  },
+  {
+    "ticker": "ALCN",
+    "symbolCode": "EGS42111C012",
+    "name": "Alexandria Containers and Goods",
+    "nameAr": "الاسكندرية لتداول الحاويات والبضائع",
+    "enKeywords": [
+      "alcn",
+      "alexandria",
+      "containers",
+      "alexandria container",
+      "alexandria containers",
+      "containers goods"
+    ],
+    "arKeywords": [
+      "الاسكندرية لتداول الحاويات والبضائع",
+      "الاسكندرية لتداول",
+      "الاسكندرية لتداول الحاويات"
+    ]
+  },
+  {
+    "ticker": "MOIL",
+    "symbolCode": "EGS44012C010",
+    "name": "Maridive",
+    "nameAr": "الخدمات الملاحية والبترولية (ماريدايف)",
+    "enKeywords": [
+      "moil",
+      "maridive"
+    ],
+    "arKeywords": [
+      "الخدمات الملاحية والبترولية",
+      "الخدمات الملاحية"
+    ]
+  },
+  {
+    "ticker": "CSAG",
+    "symbolCode": "EGS44031C010",
+    "name": "Canal Shipping Agencies",
+    "nameAr": "القناة للتوكيلات الملاحية",
+    "enKeywords": [
+      "csag",
+      "shipping",
+      "agencies",
+      "canal shipping",
+      "shipping agencies"
+    ],
+    "arKeywords": [
+      "القناة للتوكيلات الملاحية",
+      "القناة للتوكيلات"
+    ]
+  },
+  {
+    "ticker": "EGSA",
+    "symbolCode": "EGS48022C015",
+    "name": "Egyptian Satellites (NileSat)",
+    "nameAr": "المصريه للاقمار الصناعيه ( نايل سات )",
+    "enKeywords": [
+      "egsa",
+      "satellites",
+      "nilesat",
+      "satellites nilesat"
+    ],
+    "arKeywords": [
+      "المصريه للاقمار الصناعيه",
+      "المصريه للاقمار"
+    ]
+  },
+  {
+    "ticker": "ETEL",
+    "symbolCode": "EGS48031C016",
+    "name": "Telecom Egypt",
+    "nameAr": "الشركة المصرية للاتصالات",
+    "enKeywords": [
+      "etel"
+    ],
+    "arKeywords": [
+      "الشركة المصرية للاتصالات",
+      "المصرية للاتصالات"
+    ]
+  },
+  {
+    "ticker": "ESAC",
+    "symbolCode": "EGS48271C018",
+    "name": "Egypt South Africa Telecommunications",
+    "nameAr": "مصر جنوب أفريقيا للاتصالات",
+    "enKeywords": [
+      "esac",
+      "telecommunications",
+      "africa telecommunications"
+    ],
+    "arKeywords": [
+      "مصر جنوب أفريقيا للاتصالات",
+      "مصر جنوب",
+      "مصر جنوب أفريقيا"
+    ]
+  },
+  {
+    "ticker": "CIEB",
+    "symbolCode": "EGS60041C018",
+    "name": "Credit Agricole Egypt",
+    "nameAr": "بنك كريدي أجريكول اندوسويس (مصر)",
+    "enKeywords": [
+      "cieb",
+      "agricole",
+      "credit agricole"
+    ],
+    "arKeywords": [
+      "بنك كريدي أجريكول اندوسويس",
+      "كريدي أجريكول",
+      "كريدي أجريكول اندوسويس"
+    ]
+  },
+  {
+    "ticker": "QNBE",
+    "symbolCode": "EGS60081C014",
+    "name": "Qatar National Bank (QNB)",
+    "nameAr": "بنك قطر الوطنى الاهلى",
+    "enKeywords": [
+      "qnbe",
+      "qatar bank",
+      "bank qnb"
+    ],
+    "arKeywords": [
+      "بنك قطر الوطنى الاهلى",
+      "قطر الوطنى",
+      "قطر الوطنى الاهلى"
+    ]
+  },
+  {
+    "ticker": "UBEE",
+    "symbolCode": "EGS600M1C017",
+    "name": "The United Bank",
+    "nameAr": "المصرف المتحد",
+    "enKeywords": [
+      "ubee"
+    ],
+    "arKeywords": [
+      "المصرف المتحد"
+    ]
+  },
+  {
+    "ticker": "SAUD",
+    "symbolCode": "EGS60101C010",
+    "name": "Al Baraka Bank",
+    "nameAr": "بنك البركه",
+    "enKeywords": [
+      "saud",
+      "baraka bank"
+    ],
+    "arKeywords": [
+      "بنك البركه"
+    ]
+  },
+  {
+    "ticker": "ADIB",
+    "symbolCode": "EGS60111C019",
+    "name": "Abu Dhabi Islamic Bank",
+    "nameAr": "مصرف ابوظبى الاسلامي - مصر",
+    "enKeywords": [
+      "adib",
+      "abu dhabi",
+      "dhabi bank"
+    ],
+    "arKeywords": [
+      "مصرف ابوظبى الاسلامي",
+      "ابوظبى الاسلامي"
+    ]
+  },
+  {
+    "ticker": "COMI",
+    "symbolCode": "EGS60121C018",
+    "name": "Commercial International Bank",
+    "nameAr": "البنك التجاري الدولي  (مصر)",
+    "enKeywords": [
+      "comi"
+    ],
+    "arKeywords": [
+      "البنك التجاري الدولي",
+      "التجاري الدولي"
+    ]
+  },
+  {
+    "ticker": "SAIB",
+    "symbolCode": "EGS60142C014",
+    "name": "Societe Arabe Internationale de Banque",
+    "nameAr": "بنك الشركة المصرفية العربية الدولية- شركة مساهمة مصرية",
+    "enKeywords": [
+      "saib",
+      "societe",
+      "internationale",
+      "societe arabe",
+      "arabe internationale",
+      "internationale banque"
+    ],
+    "arKeywords": [
+      "بنك الشركة المصرفية العربية الدولية- شركة مساهمة مصرية",
+      "الشركة المصرفية",
+      "الشركة المصرفية العربية"
+    ]
+  },
+  {
+    "ticker": "NBKE",
+    "symbolCode": "EGS60171C013",
+    "name": "El Watany Bank of Egypt",
+    "nameAr": "بنك الكويت الوطني -مصر",
+    "enKeywords": [
+      "nbke",
+      "watany bank"
+    ],
+    "arKeywords": [
+      "بنك الكويت الوطني",
+      "الكويت الوطني"
+    ]
+  },
+  {
+    "ticker": "EGBE",
+    "symbolCode": "EGS60182C010",
+    "name": "Egyptian Gulf Bank",
+    "nameAr": "البنك المصري الخليجي",
+    "enKeywords": [
+      "egbe"
+    ],
+    "arKeywords": [
+      "البنك المصري الخليجي",
+      "المصري الخليجي"
+    ]
+  },
+  {
+    "ticker": "CANA",
+    "symbolCode": "EGS60231C015",
+    "name": "Suez Canal Bank",
+    "nameAr": "بنك قناة السويس",
+    "enKeywords": [
+      "cana",
+      "canal bank"
+    ],
+    "arKeywords": [
+      "بنك قناة السويس"
+    ]
+  },
+  {
+    "ticker": "EXPA",
+    "symbolCode": "EGS60241C014",
+    "name": "Export Development Bank of Egypt",
+    "nameAr": "البنك المصري لتنمية الصادرات",
+    "enKeywords": [
+      "expa",
+      "export bank"
+    ],
+    "arKeywords": [
+      "البنك المصري لتنمية الصادرات",
+      "المصري لتنمية",
+      "المصري لتنمية الصادرات"
+    ]
+  },
+  {
+    "ticker": "HDBK",
+    "symbolCode": "EGS60301C016",
+    "name": "Housing & Development Bank",
+    "nameAr": "بنك التعمير والاسكان",
+    "enKeywords": [
+      "hdbk"
+    ],
+    "arKeywords": [
+      "بنك التعمير والاسكان",
+      "التعمير والاسكان"
+    ]
+  },
+  {
+    "ticker": "FAIT",
+    "symbolCode": "EGS60321C014",
+    "name": "Faisal Islamic Bank of Egypt",
+    "nameAr": "بنك فيصل الاسلامي المصري",
+    "enKeywords": [
+      "fait",
+      "faisal bank"
+    ],
+    "arKeywords": [
+      "بنك فيصل الاسلامي المصري",
+      "فيصل الاسلامي",
+      "فيصل الاسلامي المصري"
+    ]
+  },
+  {
+    "ticker": "DEIN",
+    "symbolCode": "EGS63031C016",
+    "name": "Delta Insurance",
+    "nameAr": "الدلتا للتأمين",
+    "enKeywords": [
+      "dein",
+      "insurance"
+    ],
+    "arKeywords": [
+      "الدلتا للتأمين"
+    ]
+  },
+  {
+    "ticker": "MOIN",
+    "symbolCode": "EGS63041C015",
+    "name": "Mohandes Insurance",
+    "nameAr": "المهندس للتأمين",
+    "enKeywords": [
+      "moin",
+      "mohandes",
+      "insurance",
+      "mohandes insurance"
+    ],
+    "arKeywords": [
+      "المهندس للتأمين"
+    ]
+  },
+  {
+    "ticker": "MLIC",
+    "symbolCode": "EGS632D1C010",
+    "name": "Misr Life Insurance",
+    "nameAr": "مصر لتأمينات الحياة",
+    "enKeywords": [
+      "mlic",
+      "insurance",
+      "life insurance"
+    ],
+    "arKeywords": [
+      "مصر لتأمينات الحياة",
+      "مصر لتأمينات"
+    ]
+  },
+  {
+    "ticker": "AIHC",
+    "symbolCode": "EGS21351C019",
+    "name": "Arabia Investments",
+    "nameAr": "ارابيا انفستمنتس",
+    "enKeywords": [
+      "aihc",
+      "investments",
+      "arabia investments"
+    ],
+    "arKeywords": [
+      "ارابيا انفستمنتس"
+    ]
+  },
+  {
+    "ticker": "BIDI",
+    "symbolCode": "EGS3A2Z1C015",
+    "name": "El Badr Investment and Development",
+    "nameAr": "بي اي دي- البدر للاستثمار والتنمية",
+    "enKeywords": [
+      "bidi"
+    ],
+    "arKeywords": [
+      "بي اي دي- البدر للاستثمار والتنمية",
+      "بي اي",
+      "بي اي دي-"
+    ]
+  },
+  {
+    "ticker": "VALU",
+    "symbolCode": "EGS505Z1C018",
+    "name": "U Consumer Finance",
+    "nameAr": "يو للتمويل الاستهلاكى",
+    "enKeywords": [
+      "valu",
+      "consumer"
+    ],
+    "arKeywords": [
+      "يو للتمويل الاستهلاكى",
+      "يو للتمويل"
+    ]
+  },
+  {
+    "ticker": "RKAZ",
+    "symbolCode": "EGS521T1C016",
+    "name": "REKAZ Financial Holding",
+    "nameAr": "ركاز القابضة للاستثمارات المالية",
+    "enKeywords": [
+      "rkaz"
+    ],
+    "arKeywords": [
+      "ركاز القابضة للاستثمارات المالية",
+      "ركاز القابضة",
+      "ركاز القابضة للاستثمارات"
+    ]
+  },
+  {
+    "ticker": "IBCT",
+    "symbolCode": "EGS550K1C019",
+    "name": "International Business Corporation Trading",
+    "nameAr": "انترناسيونال برنس كوربوريشن للتجاره",
+    "enKeywords": [
+      "ibct",
+      "business"
+    ],
+    "arKeywords": [
+      "انترناسيونال برنس كوربوريشن للتجاره",
+      "انترناسيونال برنس",
+      "انترناسيونال برنس كوربوريشن"
+    ]
+  },
+  {
+    "ticker": "BIGP",
+    "symbolCode": "EGS551D1C017",
+    "name": "Barbary Investment Group",
+    "nameAr": "بى اى جى للتجارة والاستثمار",
+    "enKeywords": [
+      "bigp",
+      "barbary"
+    ],
+    "arKeywords": [
+      "بى اى جى للتجارة والاستثمار",
+      "بى اى",
+      "بى اى جى"
+    ]
+  },
+  {
+    "ticker": "AIDC",
+    "symbolCode": "EGS65R01C015",
+    "name": "Arabia for Investment and Development",
+    "nameAr": "ارابيا للاستثمار والتنمية",
+    "enKeywords": [
+      "aidc"
+    ],
+    "arKeywords": [
+      "ارابيا للاستثمار والتنمية",
+      "ارابيا للاستثمار"
+    ]
+  },
+  {
+    "ticker": "ICLE",
+    "symbolCode": "EGS67001C015",
+    "name": "International Company for Leasing (IncoLEASE)",
+    "nameAr": "الدولية للتأجير التمويلي (إنكوليس)",
+    "enKeywords": [
+      "icle",
+      "leasing",
+      "incolease",
+      "leasing incolease"
+    ],
+    "arKeywords": [
+      "الدولية للتأجير التمويلي",
+      "الدولية للتأجير"
+    ]
+  },
+  {
+    "ticker": "SEIG",
+    "symbolCode": "EGS67031C012",
+    "name": "Saudi Egyptian Investment & Finance",
+    "nameAr": "السعودية المصرية للاستثمار والتمويل",
+    "enKeywords": [
+      "seig"
+    ],
+    "arKeywords": [
+      "السعودية المصرية للاستثمار والتمويل",
+      "السعودية المصرية",
+      "السعودية المصرية للاستثمار"
+    ]
+  },
+  {
+    "ticker": "ODIN",
+    "symbolCode": "EGS67181C015",
+    "name": "Oden Financial Investments",
+    "nameAr": "اودن للاستثمارات الماليه",
+    "enKeywords": [
+      "odin",
+      "investments",
+      "oden investments"
+    ],
+    "arKeywords": [
+      "اودن للاستثمارات الماليه",
+      "اودن للاستثمارات"
+    ]
+  },
+  {
+    "ticker": "ICID",
+    "symbolCode": "EGS67191C014",
+    "name": "International Co for Investment & Development",
+    "nameAr": "العالميه للاستثمار والتنميه",
+    "enKeywords": [
+      "icid"
+    ],
+    "arKeywords": [
+      "العالميه للاستثمار والتنميه",
+      "العالميه للاستثمار"
+    ]
+  },
+  {
+    "ticker": "AMIA",
+    "symbolCode": "EGS67221C019",
+    "name": "Arab Moltaqa Investments",
+    "nameAr": "الملتقي العربي للاستثمارات",
+    "enKeywords": [
+      "amia",
+      "moltaqa",
+      "investments",
+      "moltaqa investments"
+    ],
+    "arKeywords": [
+      "الملتقي العربي للاستثمارات",
+      "الملتقي العربي"
+    ]
+  },
+  {
+    "ticker": "CFGH",
+    "symbolCode": "EGS672I2C014",
+    "name": "Arafa Holding",
+    "nameAr": "العرفة للاستثمارات والاستشارات",
+    "enKeywords": [
+      "cfgh"
+    ],
+    "arKeywords": [
+      "العرفة للاستثمارات والاستشارات",
+      "العرفة للاستثمارات"
+    ]
+  },
+  {
+    "ticker": "TYCN",
+    "symbolCode": "EGS67331C016",
+    "name": "Tycoon Investments Holding",
+    "nameAr": "تايكون انفستمنتس هولدنج",
+    "enKeywords": [
+      "tycn",
+      "investments",
+      "tycoon investments"
+    ],
+    "arKeywords": [
+      "تايكون انفستمنتس هولدنج",
+      "تايكون انفستمنتس"
+    ]
+  },
+  {
+    "ticker": "GBCO",
+    "symbolCode": "EGS673T1C012",
+    "name": "GB Corp",
+    "nameAr": "جى بى كوربوريشن",
+    "enKeywords": [
+      "gbco"
+    ],
+    "arKeywords": [
+      "جى بى كوربوريشن",
+      "جى بى"
+    ]
+  },
+  {
+    "ticker": "ATLC",
+    "symbolCode": "EGS676N1C015",
+    "name": "Al Tawfiq Leasing Company",
+    "nameAr": "التوفيق للتأجير التمويلي",
+    "enKeywords": [
+      "atlc",
+      "leasing",
+      "tawfiq leasing"
+    ],
+    "arKeywords": [
+      "التوفيق للتأجير التمويلي",
+      "التوفيق للتأجير"
+    ]
+  },
+  {
+    "ticker": "EBSC",
+    "symbolCode": "EGS68181C014",
+    "name": "Osool ESB Securities Brokerage",
+    "nameAr": "اصول للوساطة فى الاوراق المالية E.S.B",
+    "enKeywords": [
+      "ebsc",
+      "securities",
+      "brokerage",
+      "osool esb",
+      "esb securities",
+      "securities brokerage"
+    ],
+    "arKeywords": [
+      "اصول للوساطة فى الاوراق المالية E.S.B",
+      "اصول للوساطة",
+      "اصول للوساطة فى"
+    ]
+  },
+  {
+    "ticker": "EASB",
+    "symbolCode": "EGS681D1C010",
+    "name": "Cmar",
+    "nameAr": "الشركة المصرية العربية ثمار لتداول الاوراق الماليه",
+    "enKeywords": [
+      "easb"
+    ],
+    "arKeywords": [
+      "الشركة المصرية العربية ثمار لتداول الاوراق الماليه",
+      "المصرية العربية",
+      "المصرية العربية ثمار"
+    ]
+  },
+  {
+    "ticker": "EOSB",
+    "symbolCode": "EGS681I1C015",
+    "name": "El Orouba Securities Brokerage",
+    "nameAr": "العروبة للسمسرة فى الاوراق المالية",
+    "enKeywords": [
+      "eosb",
+      "securities",
+      "brokerage",
+      "orouba securities",
+      "securities brokerage"
+    ],
+    "arKeywords": [
+      "العروبة للسمسرة فى الاوراق المالية",
+      "العروبة للسمسرة",
+      "العروبة للسمسرة فى"
+    ]
+  },
+  {
+    "ticker": "KWIN",
+    "symbolCode": "EGS69011C012",
+    "name": "El Kahera El Watania Investment",
+    "nameAr": "القاهرة الوطنية للاستثمار والاوراق المالية",
+    "enKeywords": [
+      "kwin",
+      "watania",
+      "kahera watania"
+    ],
+    "arKeywords": [
+      "القاهرة الوطنية للاستثمار والاوراق المالية",
+      "القاهرة الوطنية",
+      "القاهرة الوطنية للاستثمار"
+    ]
+  },
+  {
+    "ticker": "AFDI",
+    "symbolCode": "EGS69021C011",
+    "name": "Al Ahli Development & Investment",
+    "nameAr": "الاهلي للتنمية والاستثمار",
+    "enKeywords": [
+      "afdi"
+    ],
+    "arKeywords": [
+      "الاهلي للتنمية والاستثمار",
+      "الاهلي للتنمية"
+    ]
+  },
+  {
+    "ticker": "HCFI",
+    "symbolCode": "EGS69071C016",
+    "name": "The Holding Company for Financial Investments (Lakah Group)",
+    "nameAr": "القابضه للاستثمارات الماليه - ل.ك.ح جروب",
+    "enKeywords": [
+      "hcfi",
+      "investments",
+      "investments lakah"
+    ],
+    "arKeywords": [
+      "القابضه للاستثمارات الماليه - ل.ك.ح جروب",
+      "القابضه للاستثمارات",
+      "القابضه للاستثمارات الماليه"
+    ]
+  },
+  {
+    "ticker": "VLMRA",
+    "symbolCode": "EGS69081C023",
+    "name": "Valmore Holding",
+    "nameAr": "ڨالمور القابضة للاستثمار - جنيه مصري",
+    "enKeywords": [
+      "vlmra",
+      "valmore"
+    ],
+    "arKeywords": [
+      "ڨالمور القابضة للاستثمار - جنيه مصري",
+      "ڨالمور القابضة",
+      "ڨالمور القابضة للاستثمار"
+    ]
+  },
+  {
+    "ticker": "RAYA",
+    "symbolCode": "EGS690C1C010",
+    "name": "Raya Holding",
+    "nameAr": "راية القابضة للاستثمارات الماليه",
+    "enKeywords": [
+      "raya"
+    ],
+    "arKeywords": [
+      "راية القابضة للاستثمارات الماليه",
+      "راية القابضة",
+      "راية القابضة للاستثمارات"
+    ]
+  },
+  {
+    "ticker": "HRHO",
+    "symbolCode": "EGS69101C011",
+    "name": "EFG Holding",
+    "nameAr": "مجموعه اى اف جى القابضه",
+    "enKeywords": [
+      "hrho"
+    ],
+    "arKeywords": [
+      "مجموعه اى اف جى القابضه",
+      "مجموعه اى",
+      "مجموعه اى اف"
+    ]
+  },
+  {
+    "ticker": "NAHO",
+    "symbolCode": "EGS69182C011",
+    "name": "Naeem Holding",
+    "nameAr": "النعيم القابضة للاستثمارات",
+    "enKeywords": [
+      "naho"
+    ],
+    "arKeywords": [
+      "النعيم القابضة للاستثمارات",
+      "النعيم القابضة"
+    ]
+  },
+  {
+    "ticker": "PRMH",
+    "symbolCode": "EGS691A1C011",
+    "name": "Prime Holding",
+    "nameAr": "برايم القابضه للاستثمارات الماليه",
+    "enKeywords": [
+      "prmh"
+    ],
+    "arKeywords": [
+      "برايم القابضه للاستثمارات الماليه",
+      "برايم القابضه",
+      "برايم القابضه للاستثمارات"
+    ]
+  },
+  {
+    "ticker": "CICH",
+    "symbolCode": "EGS691D1C018",
+    "name": "CI Capital",
+    "nameAr": "سى اى كابيتال",
+    "enKeywords": [
+      "cich"
+    ],
+    "arKeywords": [
+      "سى اى كابيتال",
+      "سى اى"
+    ]
+  },
+  {
+    "ticker": "BTFH",
+    "symbolCode": "EGS691G1C015",
+    "name": "Beltone Financial Holding",
+    "nameAr": "بلتون الماليه القابضه",
+    "enKeywords": [
+      "btfh",
+      "beltone"
+    ],
+    "arKeywords": [
+      "بلتون الماليه القابضه",
+      "بلتون الماليه"
+    ]
+  },
+  {
+    "ticker": "ASPI",
+    "symbolCode": "EGS691L1C018",
+    "name": "Aspire Capital Holding",
+    "nameAr": "اسباير كابيتال القابضة للاستمارات المالية",
+    "enKeywords": [
+      "aspi"
+    ],
+    "arKeywords": [
+      "اسباير كابيتال القابضة للاستمارات المالية",
+      "اسباير كابيتال",
+      "اسباير كابيتال القابضة"
+    ]
+  },
+  {
+    "ticker": "BINV",
+    "symbolCode": "EGS691T1C010",
+    "name": "B Investment",
+    "nameAr": "بي انفستمنتس",
+    "enKeywords": [
+      "binv"
+    ],
+    "arKeywords": [
+      "بي انفستمنتس"
+    ]
+  },
+  {
+    "ticker": "GRCA",
+    "symbolCode": "EGS69261C013",
+    "name": "Grand Investment Capital",
+    "nameAr": "جراند انفستمنت القابضة للاستثمارات المالية",
+    "enKeywords": [
+      "grca"
+    ],
+    "arKeywords": [
+      "جراند انفستمنت القابضة للاستثمارات المالية",
+      "جراند انفستمنت",
+      "جراند انفستمنت القابضة"
+    ]
+  },
+  {
+    "ticker": "OIH",
+    "symbolCode": "EGS693V1C014",
+    "name": "Orascom Holding",
+    "nameAr": "اوراسكوم للاستثمار القابضه",
+    "enKeywords": [
+      "oih",
+      "orascom"
+    ],
+    "arKeywords": [
+      "اوراسكوم للاستثمار القابضه",
+      "اوراسكوم للاستثمار"
+    ]
+  },
+  {
+    "ticker": "EGREF",
+    "symbolCode": "EGS694B1C017",
+    "name": "Egyptian Real Estate Fund Certificates",
+    "nameAr": "وثائق صندوق المصريين للاستثمار العقارى",
+    "enKeywords": [
+      "egref",
+      "certificates",
+      "fund certificates"
+    ],
+    "arKeywords": [
+      "وثائق صندوق المصريين للاستثمار العقارى",
+      "وثائق صندوق",
+      "وثائق صندوق المصريين"
+    ]
+  },
+  {
+    "ticker": "OFH",
+    "symbolCode": "EGS696S1C016",
+    "name": "OB Financial Holding",
+    "nameAr": "او بى المالية القابضة",
+    "enKeywords": [
+      "ofh"
+    ],
+    "arKeywords": [
+      "او بى المالية القابضة",
+      "او بى",
+      "او بى المالية"
+    ]
+  },
+  {
+    "ticker": "KASABF",
+    "symbolCode": "EGS696Z1C017",
+    "name": "Odin Egyptian Equity Investment Fund (KASAB)",
+    "nameAr": "وثائق صندوق استثمار أودن للاستثمار في الاسهم المصرية -كسب",
+    "enKeywords": [
+      "kasabf",
+      "odin equity",
+      "equity fund",
+      "fund kasab"
+    ],
+    "arKeywords": [
+      "وثائق صندوق استثمار أودن للاستثمار في الاسهم المصرية -كسب",
+      "وثائق صندوق",
+      "وثائق صندوق استثمار"
+    ]
+  },
+  {
+    "ticker": "ACAP",
+    "symbolCode": "EGS697S1C015",
+    "name": "A Capital Holding",
+    "nameAr": "ايه كابيتال القابضة",
+    "enKeywords": [
+      "acap"
+    ],
+    "arKeywords": [
+      "ايه كابيتال القابضة",
+      "ايه كابيتال"
+    ]
+  },
+  {
+    "ticker": "CPME",
+    "symbolCode": "EGS698X1C017",
+    "name": "Catalyst Partners Middle East",
+    "nameAr": "كاتليست بارتنرز ميديل ايست",
+    "enKeywords": [
+      "cpme",
+      "catalyst",
+      "partners",
+      "catalyst partners",
+      "partners middle"
+    ],
+    "arKeywords": [
+      "كاتليست بارتنرز ميديل ايست",
+      "كاتليست بارتنرز",
+      "كاتليست بارتنرز ميديل"
+    ]
+  },
+  {
+    "ticker": "ACAMD",
+    "symbolCode": "EGS72AQ1C016",
+    "name": "Arab Company for Asset Management and Development",
+    "nameAr": "العربية لادارة وتطوير الاصول",
+    "enKeywords": [
+      "acamd"
+    ],
+    "arKeywords": [
+      "العربية لادارة وتطوير الاصول",
+      "العربية لادارة",
+      "العربية لادارة وتطوير"
+    ]
+  },
+  {
+    "ticker": "CCAP",
+    "symbolCode": "EGS73541C012",
+    "name": "Citadel Capital",
+    "nameAr": "القلعة للاستشارات الماليه",
+    "enKeywords": [
+      "ccap",
+      "citadel"
+    ],
+    "arKeywords": [
+      "القلعة للاستشارات الماليه",
+      "القلعة للاستشارات"
+    ]
+  },
+  {
+    "ticker": "CNFN",
+    "symbolCode": "EGS738I1C018",
+    "name": "Contact Financial Holding",
+    "nameAr": "كونتكت المالية القابضة",
+    "enKeywords": [
+      "cnfn",
+      "contact"
+    ],
+    "arKeywords": [
+      "كونتكت المالية القابضة",
+      "كونتكت المالية"
+    ]
+  },
+  {
+    "ticker": "TWSA",
+    "symbolCode": "EGS7D231C010",
+    "name": "Tawasoa for Factoring",
+    "nameAr": "توسع للتخصيم",
+    "enKeywords": [
+      "twsa",
+      "tawasoa",
+      "factoring",
+      "tawasoa factoring"
+    ],
+    "arKeywords": [
+      "توسع للتخصيم"
+    ]
+  },
+  {
+    "ticker": "ACTF",
+    "symbolCode": "EGS7D5P1C019",
+    "name": "Act Financial",
+    "nameAr": "اكت فاينانشال للاستشارات",
+    "enKeywords": [
+      "actf"
+    ],
+    "arKeywords": [
+      "اكت فاينانشال للاستشارات",
+      "اكت فاينانشال"
+    ]
+  },
+  {
+    "ticker": "ODID",
+    "symbolCode": "EGS7DBU1C018",
+    "name": "ODEN for Investment & Development",
+    "nameAr": "اودن للاستثمار و التنمية",
+    "enKeywords": [
+      "odid"
+    ],
+    "arKeywords": [
+      "اودن للاستثمار و التنمية",
+      "اودن للاستثمار",
+      "اودن للاستثمار التنمية"
+    ]
+  },
+  {
+    "ticker": "EITP",
+    "symbolCode": "EGS70011C019",
+    "name": "Egyptian International Tourism Projects",
+    "nameAr": "المصرية للمشروعات السياحية العالمية",
+    "enKeywords": [
+      "eitp",
+      "tourism",
+      "projects",
+      "tourism projects"
+    ],
+    "arKeywords": [
+      "المصرية للمشروعات السياحية العالمية",
+      "المصرية للمشروعات",
+      "المصرية للمشروعات السياحية"
+    ]
+  },
+  {
+    "ticker": "MHOT",
+    "symbolCode": "EGS70081C012",
+    "name": "Hilton Misr Hotels",
+    "nameAr": "مصر للفنادق - هيلتون",
+    "enKeywords": [
+      "mhot",
+      "hilton hotels"
+    ],
+    "arKeywords": [
+      "مصر للفنادق - هيلتون",
+      "مصر للفنادق",
+      "مصر للفنادق هيلتون"
+    ]
+  },
+  {
+    "ticker": "RMTV",
+    "symbolCode": "EGS70131C015",
+    "name": "Rowad Misr Tourism Investment",
+    "nameAr": "رواد مصر للاستثمار السياحى",
+    "enKeywords": [
+      "rmtv",
+      "tourism",
+      "rowad tourism"
+    ],
+    "arKeywords": [
+      "رواد مصر للاستثمار السياحى",
+      "رواد مصر",
+      "رواد مصر للاستثمار"
+    ]
+  },
+  {
+    "ticker": "RTVC",
+    "symbolCode": "EGS70271C019",
+    "name": "Remco",
+    "nameAr": "رمكو لانشاء القرى السياحيه",
+    "enKeywords": [
+      "rtvc"
+    ],
+    "arKeywords": [
+      "رمكو لانشاء القرى السياحيه",
+      "رمكو لانشاء",
+      "رمكو لانشاء القرى"
+    ]
+  },
+  {
+    "ticker": "ROTO",
+    "symbolCode": "EGS70281C018",
+    "name": "Rowad Tourism (Al Rowad)",
+    "nameAr": "رواد السياحة - رواد",
+    "enKeywords": [
+      "roto",
+      "tourism",
+      "rowad tourism",
+      "tourism rowad"
+    ],
+    "arKeywords": [
+      "رواد السياحة - رواد",
+      "رواد السياحة",
+      "رواد السياحة رواد"
+    ]
+  },
+  {
+    "ticker": "ORHD",
+    "symbolCode": "EGS70321C012",
+    "name": "Orascom Development Egypt",
+    "nameAr": "اوراسكوم للتنميه مصر",
+    "enKeywords": [
+      "orhd",
+      "orascom"
+    ],
+    "arKeywords": [
+      "اوراسكوم للتنميه مصر",
+      "اوراسكوم للتنميه"
+    ]
+  },
+  {
+    "ticker": "PHTV",
+    "symbolCode": "EGS70331C011",
+    "name": "Pyramisa Hotels",
+    "nameAr": "بيراميزا للفنادق والقرى السياحية - بيراميزا",
+    "enKeywords": [
+      "phtv",
+      "pyramisa",
+      "pyramisa hotels"
+    ],
+    "arKeywords": [
+      "بيراميزا للفنادق والقرى السياحية - بيراميزا",
+      "بيراميزا للفنادق",
+      "بيراميزا للفنادق والقرى"
+    ]
+  },
+  {
+    "ticker": "GPPL",
+    "symbolCode": "EGS70342C018",
+    "name": "Golden Pyramids Plaza",
+    "nameAr": "جولدن بيراميدز بلازا",
+    "enKeywords": [
+      "gppl",
+      "pyramids",
+      "golden pyramids",
+      "pyramids plaza"
+    ],
+    "arKeywords": [
+      "جولدن بيراميدز بلازا",
+      "جولدن بيراميدز"
+    ]
+  },
+  {
+    "ticker": "EGTS",
+    "symbolCode": "EGS70431C019",
+    "name": "Egyptian for Tourism",
+    "nameAr": "المصرية للمنتجعات",
+    "enKeywords": [
+      "egts",
+      "tourism"
+    ],
+    "arKeywords": [
+      "المصرية للمنتجعات"
+    ]
+  },
+  {
+    "ticker": "SDTI",
+    "symbolCode": "EGS70571C012",
+    "name": "Sharm Dreams",
+    "nameAr": "شارم دريمز للاستثمار السياحي",
+    "enKeywords": [
+      "sdti",
+      "sharm dreams"
+    ],
+    "arKeywords": [
+      "شارم دريمز للاستثمار السياحي",
+      "شارم دريمز",
+      "شارم دريمز للاستثمار"
+    ]
+  },
+  {
+    "ticker": "SPHT",
+    "symbolCode": "EGS70H02C014",
+    "name": "El Shams Pyramids for Hotels & Touristic Projects",
+    "nameAr": "الشمس بيراميدز للفنادق والمنشأت السياحية",
+    "enKeywords": [
+      "spht",
+      "pyramids",
+      "touristic",
+      "projects",
+      "shams pyramids",
+      "pyramids hotels",
+      "hotels touristic",
+      "touristic projects"
+    ],
+    "arKeywords": [
+      "الشمس بيراميدز للفنادق والمنشأت السياحية",
+      "الشمس بيراميدز",
+      "الشمس بيراميدز للفنادق"
+    ]
+  },
+  {
+    "ticker": "MMAT",
+    "symbolCode": "EGS70P91C010",
+    "name": "Marsa Marsa Alam",
+    "nameAr": "مرسي  مرسي علم للتنمية السياحية",
+    "enKeywords": [
+      "mmat",
+      "marsa marsa",
+      "marsa alam"
+    ],
+    "arKeywords": [
+      "مرسي  مرسي علم للتنمية السياحية",
+      "مرسي مرسي",
+      "مرسي مرسي علم"
+    ]
+  },
+  {
+    "ticker": "ELWA",
+    "symbolCode": "EGS70R91C016",
+    "name": "Elwadi for International Investment & Development",
+    "nameAr": "الوادي العالمية  للاستثمار السياحي",
+    "enKeywords": [
+      "elwa"
+    ],
+    "arKeywords": [
+      "الوادي العالمية  للاستثمار السياحي",
+      "الوادي العالمية",
+      "الوادي العالمية للاستثمار"
+    ]
+  },
+  {
+    "ticker": "TRTO",
+    "symbolCode": "EGS79072C012",
+    "name": "Trans Oceans Tours",
+    "nameAr": "عبر المحيطات للسياحه",
+    "enKeywords": [
+      "trto",
+      "trans oceans",
+      "oceans tours"
+    ],
+    "arKeywords": [
+      "عبر المحيطات للسياحه",
+      "عبر المحيطات"
+    ]
+  },
+  {
+    "ticker": "FCMD",
+    "symbolCode": "EGS3I0S1C019",
+    "name": "Future Care for Medical Industries",
+    "nameAr": "فيوتشر كير للصناعات الطبية",
+    "enKeywords": [
+      "fcmd",
+      "medical",
+      "future care",
+      "care medical"
+    ],
+    "arKeywords": [
+      "فيوتشر كير للصناعات الطبية",
+      "فيوتشر كير",
+      "فيوتشر كير للصناعات"
+    ]
+  },
+  {
+    "ticker": "UPMS",
+    "symbolCode": "EGS3I1D1C015",
+    "name": "Federation of Pharmaceutical Services",
+    "nameAr": "الاتحاد الصيدلي للخدمات الطبيه",
+    "enKeywords": [
+      "upms",
+      "federation",
+      "pharmaceutical",
+      "federation pharmaceutical"
+    ],
+    "arKeywords": [
+      "الاتحاد الصيدلي للخدمات الطبيه",
+      "الاتحاد الصيدلي",
+      "الاتحاد الصيدلي للخدمات"
+    ]
+  },
+  {
+    "ticker": "NINH",
+    "symbolCode": "EGS72011C017",
+    "name": "Nozha International Hospital",
+    "nameAr": "مستشفى النزهه الدولي",
+    "enKeywords": [
+      "ninh",
+      "hospital",
+      "nozha hospital"
+    ],
+    "arKeywords": [
+      "مستشفى النزهه الدولي",
+      "مستشفى النزهه"
+    ]
+  },
+  {
+    "ticker": "AMES",
+    "symbolCode": "EGS72081C010",
+    "name": "Alexandria New Medical Center",
+    "nameAr": "الاسكندرية للخدمات الطبية -المركز الطبى الجديد",
+    "enKeywords": [
+      "ames",
+      "alexandria",
+      "medical",
+      "alexandria medical",
+      "medical center"
+    ],
+    "arKeywords": [
+      "الاسكندرية للخدمات الطبية -المركز الطبى الجديد",
+      "الاسكندرية للخدمات",
+      "الاسكندرية للخدمات الطبية"
+    ]
+  },
+  {
+    "ticker": "CLHO",
+    "symbolCode": "EGS729J1C018",
+    "name": "Cleopatra Hospital",
+    "nameAr": "مستشفي كليوباترا ش.م.م",
+    "enKeywords": [
+      "clho",
+      "cleopatra",
+      "hospital",
+      "cleopatra hospital"
+    ],
+    "arKeywords": [
+      "مستشفي كليوباترا ش.م.م",
+      "مستشفي كليوباترا"
+    ]
+  },
+  {
+    "ticker": "PHGC",
+    "symbolCode": "EGS72XL1C014",
+    "name": "Premium Healthcare Group",
+    "nameAr": "بريميم هيلثكير جروب",
+    "enKeywords": [
+      "phgc",
+      "premium",
+      "healthcare",
+      "premium healthcare"
+    ],
+    "arKeywords": [
+      "بريميم هيلثكير جروب",
+      "بريميم هيلثكير"
+    ]
+  },
+  {
+    "ticker": "SPMD",
+    "symbolCode": "EGS73BR1C013",
+    "name": "Speed Medical",
+    "nameAr": "سبيد ميديكال",
+    "enKeywords": [
+      "spmd",
+      "medical",
+      "speed medical"
+    ],
+    "arKeywords": [
+      "سبيد ميديكال"
+    ]
+  },
+  {
+    "ticker": "FTNS",
+    "symbolCode": "EGS774M1C017",
+    "name": "Fitness Prime Health Clubs",
+    "nameAr": "فتنس برايم للاندية الصحية",
+    "enKeywords": [
+      "ftns",
+      "fitness",
+      "fitness prime",
+      "prime health",
+      "health clubs"
+    ],
+    "arKeywords": [
+      "فتنس برايم للاندية الصحية",
+      "فتنس برايم",
+      "فتنس برايم للاندية"
+    ]
+  },
+  {
+    "ticker": "TALM",
+    "symbolCode": "EGS597R1C017",
+    "name": "Taaleem Management Services",
+    "nameAr": "تعليم لخدمات الإدارة",
+    "enKeywords": [
+      "talm",
+      "taaleem"
+    ],
+    "arKeywords": [
+      "تعليم لخدمات الإدارة",
+      "تعليم لخدمات"
+    ]
+  },
+  {
+    "ticker": "CAED",
+    "symbolCode": "EGS72201C014",
+    "name": "Cairo Educational Services",
+    "nameAr": "القاهرة للخدمات التعليمية",
+    "enKeywords": [
+      "caed",
+      "educational"
+    ],
+    "arKeywords": [
+      "القاهرة للخدمات التعليمية",
+      "القاهرة للخدمات"
+    ]
+  },
+  {
+    "ticker": "MOED",
+    "symbolCode": "EGS729F1C012",
+    "name": "The Egyptian Modern Education Systems",
+    "nameAr": "المصرية لنظم التعليم الحديثه",
+    "enKeywords": [
+      "moed",
+      "education",
+      "systems",
+      "education systems"
+    ],
+    "arKeywords": [
+      "المصرية لنظم التعليم الحديثه",
+      "المصرية لنظم",
+      "المصرية لنظم التعليم"
+    ]
+  },
+  {
+    "ticker": "CIRA",
+    "symbolCode": "EGS65541C012",
+    "name": "CIRA Education",
+    "nameAr": "القاهره للاستثمار والتنميه العقاريه(سيرا للتعليم)",
+    "enKeywords": [
+      "cira",
+      "education",
+      "cira education"
+    ],
+    "arKeywords": [
+      "القاهره للاستثمار والتنميه العقاريه",
+      "القاهره للاستثمار",
+      "القاهره للاستثمار والتنميه"
+    ]
+  },
+  {
+    "ticker": "GTHE",
+    "symbolCode": "EGS74081C018",
+    "name": "Global Telecom",
+    "nameAr": "جلوبال",
+    "enKeywords": [
+      "gthe"
+    ],
+    "arKeywords": []
+  },
+  {
+    "ticker": "SCTS",
+    "symbolCode": "EGS740C1C010",
+    "name": "Suez Canal Company for Technology Settling",
+    "nameAr": "قناه السويس لتوطين التكنولوجيا",
+    "enKeywords": [
+      "scts",
+      "settling",
+      "canal settling"
+    ],
+    "arKeywords": [
+      "قناه السويس لتوطين التكنولوجيا",
+      "قناه السويس",
+      "قناه السويس لتوطين"
+    ]
+  },
+  {
+    "ticker": "RACC",
+    "symbolCode": "EGS74191C015",
+    "name": "Raya Contact Center",
+    "nameAr": "راية لخدمات مراكز الأتصالات",
+    "enKeywords": [
+      "racc",
+      "contact",
+      "raya contact",
+      "contact center"
+    ],
+    "arKeywords": [
+      "راية لخدمات مراكز الأتصالات",
+      "راية لخدمات",
+      "راية لخدمات مراكز"
+    ]
+  },
+  {
+    "ticker": "EFIH",
+    "symbolCode": "EGS743O1C013",
+    "name": "E-Finance for Digital and Financial Investments",
+    "nameAr": "ايه فينانس للاستثمارات الماليه الرقميه",
+    "enKeywords": [
+      "efih",
+      "digital",
+      "investments",
+      "digital investments"
+    ],
+    "arKeywords": [
+      "ايه فينانس للاستثمارات الماليه الرقميه",
+      "ايه فينانس",
+      "ايه فينانس للاستثمارات"
+    ]
+  },
+  {
+    "ticker": "FWRY",
+    "symbolCode": "EGS745L1C014",
+    "name": "Fawry",
+    "nameAr": "فوري للمدفوعات",
+    "enKeywords": [
+      "fwry"
+    ],
+    "arKeywords": [
+      "فوري للمدفوعات"
+    ]
+  },
+  {
+    "ticker": "AMPI",
+    "symbolCode": "EGS745W1C011",
+    "name": "Novida for Investment and Technology",
+    "nameAr": "نوفيدا للإستثمار والتكنولوجيا",
+    "enKeywords": [
+      "ampi"
+    ],
+    "arKeywords": [
+      "نوفيدا للإستثمار والتكنولوجيا",
+      "نوفيدا للإستثمار"
+    ]
+  },
+  {
+    "ticker": "VERT",
+    "symbolCode": "EGS74801C019",
+    "name": "Vertika Software",
+    "nameAr": "فرتيكا للبرمجيات",
+    "enKeywords": [
+      "vert",
+      "vertika",
+      "software",
+      "vertika software"
+    ],
+    "arKeywords": [
+      "فرتيكا للبرمجيات"
+    ]
+  },
+  {
+    "ticker": "DGTZ",
+    "symbolCode": "EGS74F71C015",
+    "name": "Digitize for Investment and Technology",
+    "nameAr": "ديجيتايز للاستثمار والتقنية",
+    "enKeywords": [
+      "dgtz",
+      "digitize"
+    ],
+    "arKeywords": [
+      "ديجيتايز للاستثمار والتقنية",
+      "ديجيتايز للاستثمار"
+    ]
+  },
+  {
+    "ticker": "MPRC",
+    "symbolCode": "EGS78021C010",
+    "name": "Egyptian Media Production City",
+    "nameAr": "المصرية لمدينة الانتاج الاعلامى",
+    "enKeywords": [
+      "mprc",
+      "production",
+      "production city"
+    ],
+    "arKeywords": [
+      "المصرية لمدينة الانتاج الاعلامى",
+      "المصرية لمدينة",
+      "المصرية لمدينة الانتاج"
+    ]
+  }
+]
