@@ -2,7 +2,6 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 
 const BASE = '/api/news';
 
-// ── Types ──────────────────────────────────────────────────────────────────────
 interface Article {
   key: string; title: string; link: string; source: string;
   image_url: string; summary: string; title_en: string; title_ar: string;
@@ -19,7 +18,6 @@ type Tk = {
   btnBg: string; btnBorder: string; searchBg: string; searchBorder: string;
 };
 
-// ── Helpers ──────────────────────────────────────────────────────────────────
 const SENT_COLOR: Record<string, string> = { Positive: '#3DB200', Negative: '#FF4136', Neutral: '#9A9A9A' };
 const CAT_COLOR: Record<string, string> = {
   Economic: '#4C9EFF', Earnings: '#F59E0B', 'Board Meeting': '#A78BFA',
@@ -46,7 +44,6 @@ function fmtWeekRange(dates: string[]) {
   return `${fmt(dates[0])} — ${fmt(dates[6])}`;
 }
 
-// ── Main Component ────────────────────────────────────────────────────────────
 export default function NewsSection({ TK }: { TK: Tk }) {
   const [lang, setLang] = useState<'en' | 'ar'>('en');
   const [scope, setScope] = useState<'all' | 'local' | 'global'>('all');
@@ -77,6 +74,7 @@ export default function NewsSection({ TK }: { TK: Tk }) {
 
   const weekDays = weekDates(weekAnchor);
   const today = isoToday();
+  const isAr = lang === 'ar';
 
   const fetchArticles = useCallback(async (overrides: Record<string, string> = {}) => {
     setLoading(true);
@@ -203,8 +201,6 @@ export default function NewsSection({ TK }: { TK: Tk }) {
   let displayArticles = articles;
   if (showDuplicates) displayArticles = articles.filter(a => a.dup_group);
 
-  const isAr = lang === 'ar';
-
   const pill = (active: boolean, color?: string): React.CSSProperties => ({
     padding: '5px 14px', borderRadius: 20, border: `1px solid ${active ? (color ?? TK.accent) : TK.btnBorder}`,
     background: active ? (color ?? TK.accent) : TK.btnBg,
@@ -220,7 +216,7 @@ export default function NewsSection({ TK }: { TK: Tk }) {
   return (
     <div dir={isAr ? 'rtl' : 'ltr'} style={{ fontFamily: 'var(--font-sans)', display: 'flex', flexDirection: 'column', gap: 0, margin: '-32px -32px -40px', position: 'relative' }}>
 
-      {/* ── Top bar */}
+      {/* Top bar */}
       <div style={{ display: 'flex', alignItems: 'center', gap: 10, padding: '14px 24px', borderBottom: `1px solid ${TK.cardBorder}`, flexWrap: 'wrap', background: TK.body }}>
         <span style={{ fontWeight: 800, fontSize: 16, color: TK.fg, marginInlineEnd: 8, whiteSpace: 'nowrap' }}>
           <span style={{ color: TK.accent }}>thndr</span> news
@@ -267,7 +263,7 @@ export default function NewsSection({ TK }: { TK: Tk }) {
         </button>
       </div>
 
-      {/* ── Status bar */}
+      {/* Status bar */}
       {(running || jobStatus) && (
         <div style={{ background: running ? 'rgba(59,130,246,0.1)' : TK.btnBg, borderBottom: `1px solid ${TK.cardBorder}`, padding: '8px 24px', fontSize: 12, color: TK.fg2, display: 'flex', alignItems: 'center', gap: 8 }}>
           {running && <div style={{ width: 12, height: 12, border: `2px solid ${TK.btnBorder}`, borderTop: '2px solid #3B82F6', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />}
@@ -275,7 +271,7 @@ export default function NewsSection({ TK }: { TK: Tk }) {
         </div>
       )}
 
-      {/* ── Week calendar */}
+      {/* Week calendar */}
       <div style={{ padding: '16px 24px', borderBottom: `1px solid ${TK.cardBorder}`, background: TK.body }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 12 }}>
           <button onClick={() => setWeekAnchor(d => { const n = new Date(d); n.setDate(n.getDate() - 7); return n; })}
@@ -321,7 +317,7 @@ export default function NewsSection({ TK }: { TK: Tk }) {
         </div>
       </div>
 
-      {/* ── Filter bar */}
+      {/* Filter bar */}
       <div style={{ display: 'flex', alignItems: 'center', gap: 8, padding: '10px 24px', borderBottom: `1px solid ${TK.cardBorder}`, background: TK.body, flexWrap: 'wrap' }}>
         <div style={{ position: 'relative', flex: '0 0 180px' }}>
           <i className="ph ph-magnifying-glass" style={{ position: 'absolute', left: 10, top: '50%', transform: 'translateY(-50%)', color: TK.fg3, fontSize: 13 }} />
@@ -356,7 +352,7 @@ export default function NewsSection({ TK }: { TK: Tk }) {
         <span style={{ fontSize: 12, color: TK.fg3, whiteSpace: 'nowrap' }}>{displayArticles.length} articles</span>
       </div>
 
-      {/* ── Article list */}
+      {/* Article list */}
       <div style={{ padding: '0 24px 40px', overflowY: 'auto' }}>
         {loading ? (
           <div style={{ textAlign: 'center', padding: 60, color: TK.fg3 }}>
@@ -380,7 +376,7 @@ export default function NewsSection({ TK }: { TK: Tk }) {
         )}
       </div>
 
-      {/* ── Article detail drawer */}
+      {/* Article detail drawer */}
       {detailArticle && (
         <ArticleDrawer article={detailArticle} TK={TK} isAr={isAr}
           onClose={() => setDetailArticle(null)}
@@ -395,7 +391,6 @@ export default function NewsSection({ TK }: { TK: Tk }) {
   );
 }
 
-// ── Article Row ───────────────────────────────────────────────────────────────
 function ArticleRow({ article: a, TK, isAr, selectMode, selected, tickerFilter, onSelect, onTickerClick, onOpen }:
   { article: Article; TK: Tk; isAr: boolean; selectMode: boolean; selected: boolean; tickerFilter: string;
     onSelect: (k: string) => void; onTickerClick: (t: string, e: React.MouseEvent) => void; onOpen: () => void }) {
@@ -460,13 +455,14 @@ function ArticleRow({ article: a, TK, isAr, selectMode, selected, tickerFilter, 
   );
 }
 
-// ── Article Detail Drawer ────────────────────────────────────────────────────────────
 function ArticleDrawer({ article: a, TK, isAr, onClose, onTickerClick }:
   { article: Article; TK: Tk; isAr: boolean; onClose: () => void; onTickerClick: (t: string, e: React.MouseEvent) => void }) {
   const sentColor = SENT_COLOR[a.sentiment] ?? '#9A9A9A';
   const catColor = CAT_COLOR[a.category] ?? CAT_COLOR.default;
+  // Respect the active language toggle — show only one title and one summary
   const title = isAr && a.title_ar ? a.title_ar : a.title_en || a.title;
   const summary = isAr && a.summary_ar ? a.summary_ar : a.summary;
+  const summaryLabel = isAr ? 'ملخص' : 'AI Summary';
   const pub = a.published_at
     ? new Date(a.published_at).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' })
     : '';
@@ -517,17 +513,11 @@ function ArticleDrawer({ article: a, TK, isAr, onClose, onTickerClick }:
           )}
           {summary && (
             <div style={{ marginBottom: 20 }}>
-              <div style={{ fontSize: 11, fontWeight: 600, color: TK.fg3, marginBottom: 8, textTransform: 'uppercase', letterSpacing: '0.06em' }}>AI Summary</div>
-              <p style={{ fontSize: 14, color: TK.fg2, lineHeight: 1.7, margin: 0, background: TK.card, borderRadius: 8, padding: '14px 16px', border: `1px solid ${TK.cardBorder}` }}>
+              <div style={{ fontSize: 11, fontWeight: 600, color: TK.fg3, marginBottom: 8, textTransform: 'uppercase', letterSpacing: '0.06em' }}>
+                {summaryLabel}
+              </div>
+              <p dir={isAr ? 'rtl' : 'ltr'} style={{ fontSize: 14, color: TK.fg2, lineHeight: 1.7, margin: 0, background: TK.card, borderRadius: 8, padding: '14px 16px', border: `1px solid ${TK.cardBorder}` }}>
                 {summary}
-              </p>
-            </div>
-          )}
-          {!isAr && a.summary_ar && (
-            <div style={{ marginBottom: 20 }}>
-              <div style={{ fontSize: 11, fontWeight: 600, color: TK.fg3, marginBottom: 8, textTransform: 'uppercase', letterSpacing: '0.06em' }}>ملخص</div>
-              <p dir="rtl" style={{ fontSize: 14, color: TK.fg2, lineHeight: 1.7, margin: 0, background: TK.card, borderRadius: 8, padding: '14px 16px', border: `1px solid ${TK.cardBorder}` }}>
-                {a.summary_ar}
               </p>
             </div>
           )}
